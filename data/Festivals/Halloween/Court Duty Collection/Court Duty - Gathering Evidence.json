@@ -1,0 +1,88 @@
+{
+  "name": "Court Duty: Gathering Evidence",
+  "objectives": [
+    {
+      "name": "Court Duty: The King's Guest | Lunatic After-Action Report"
+    },
+    {
+      "hint": "Listen to Mad King Thorn talking to Palawa Joko in the Labyrinth.",
+      "map": 866,
+      "name": "1. In the Mad King's Labyrinth, overhear an exchange between Mad King Thorn and a visitor.",
+      "pos": [
+        174,
+        1522,
+        7987
+      ]
+    },
+    {
+      "hint": "",
+      "map": 50,
+      "name": "2. Report to Magister Tassi in Lion's Arch on the latest crisis in the Mad Realm.",
+      "pos": [
+        -3281,
+        6133,
+        944
+      ]
+    },
+    {
+      "hint": "Use skill 1,interact with Suspicious Location and complete the door event, then talk to Seamarshal Bennu",
+      "map": 50,
+      "name": "3 & 4. Demand answers from Brigadier General Kernel in Lion's Arch. Then press him again.",
+      "pos": [
+        5815,
+        -11488,
+        990
+      ]
+    },
+    {
+      "hint": "Complete haunted door events in the Mad King's Labyrinth. Boss events award extra progress.",
+      "map": 866,
+      "name": "Court Duty: Untangling the Labyrinth | Lightly Used Soul Jar",
+      "pos": [
+        5458,
+        -5188,
+        7118
+      ]
+    },
+    {
+      "hint": "",
+      "map": 50,
+      "name": "Enter the Stopped Clock Tower",
+      "pos": [
+        -4794,
+        16052,
+        927
+      ]
+    },
+    {
+      "hint": "Open chests in the Mad King's Clock Tower or Stopped Clock Tower jumping puzzles. Chests higher up the tower award extra progress.",
+      "map": 1522,
+      "name": "Court Duty: Terror of the Tower | Expert's Guide to Tower Climbing",
+      "pos": [
+        6192,
+        -751,
+        5057
+      ]
+    },
+    {
+      "hint": "Complete mount races in the Mad King's Labyrinth or Mad King's Raceway. Faster times and top-three finishes award extra progress.",
+      "map": 1304,
+      "name": "Court Duty: Race to the Precipice | Shed Gargoyle Claw",
+      "pos": [
+        -471,
+        671,
+        1914
+      ]
+    },
+    {
+      "hint": "Survive Mad King Thorn's tricks in the Ascent to Madness mission or participate in his games of Mad King Says in Lion's Arch. Successfully playing Mad King Says awards extra progress.",
+      "map": 50,
+      "name": "Court Duty: Deference to the King | Tattered Awakened Garment",
+      "pos": [
+        -4180,
+        15001,
+        927
+      ]
+    }
+  ]
+}

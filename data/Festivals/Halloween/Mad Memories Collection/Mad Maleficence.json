@@ -1,0 +1,129 @@
+{
+  "name": "Mad Maleficence",
+  "objectives": [
+    {
+      "hint": "Purchased from the Awakened Merchant near the Grand Sahil Casino using one Candy Corn Cob.",
+      "map": 1210,
+      "name": "Joko's Crown (Replica)",
+      "pos": [
+        -32922,
+        -8137,
+        353
+      ]
+    },
+    {
+      "hint": "Found in Palawan Phylacteries, dropped by champion Awakened. Easiest method to acquire them is to complete the Awakened Invasion events in Central Tyria.",
+      "name": "Awakened Officer's Service Medallion"
+    },
+    {
+      "hint": "Found in Buried Treasures and Superior Buried Treasures, found by using a Treasure Hunting Kit in one of the Crystal Desert maps.",
+      "map": 1226,
+      "name": "Mummy Wrap Field Kit",
+      "pos": [
+        21642,
+        18166,
+        10961
+      ]
+    },
+    {
+      "hint": "Speak to the Mad Spirit in the north on the wall of the Labyrinth maze, who will give you this item.",
+      "map": 866,
+      "name": "Journal of a Youth",
+      "pos": [
+        1637,
+        8486,
+        7724
+      ]
+    },
+    {
+      "hint": "Southeast corner of the maze.",
+      "map": 866,
+      "name": "Ancient Awakened Soldier's Ring",
+      "pos": [
+        -8729,
+        3988,
+        10251
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Draft of a Love Letter (Page 2)",
+      "pos": [
+        7924,
+        -3930,
+        7666
+      ]
+    },
+    {
+      "hint": "In Mad King's Raceway, south of waypoint, in mausoleum on a hill.",
+      "map": 1304,
+      "name": "Chariot Reins",
+      "pos": [
+        885,
+        -4052,
+        2089
+      ]
+    },
+    {
+      "hint": "In Mad King's Raceway, southwest of waypoint, in small mausoleum.",
+      "map": 1304,
+      "name": "Joko's Book Club Selections",
+      "pos": [
+        -2933,
+        -5245,
+        1868
+      ]
+    },
+    {
+      "hint": "The book is within an Abandoned Lockbox near the top of the ruined building at the point of interest.",
+      "map": 1288,
+      "name": "Book of Palawa Poetry - 1st Draft",
+      "pos": [
+        4402,
+        -25118,
+        3072
+      ]
+    },
+    {
+      "hint": "The item is in the Abandoned Lockbox.",
+      "map": 1248,
+      "name": "The Scourge of Vabbi's To-Do List",
+      "pos": [
+        -30098,
+        19321,
+        4403
+      ]
+    },
+    {
+      "hint": "On top of the Joko Statue at Great Palawa Joko Monument.",
+      "map": 1248,
+      "name": "Aphorisms of Joko, the Eternal Monarch of All",
+      "pos": [
+        2744,
+        -20400,
+        5783
+      ]
+    },
+    {
+      "hint": "In an Abandoned Lockbox under the Joko statue's foot.",
+      "map": 1228,
+      "name": "A Treatise on the Veridical...",
+      "pos": [
+        14293,
+        -27549,
+        523
+      ]
+    },
+    {
+      "hint": "In an Abandoned Lockbox in the Forbidden Vault.",
+      "map": 1226,
+      "name": "The Diary of Palawa Ignacious Joko",
+      "pos": [
+        34364,
+        -32486,
+        9044
+      ]
+    }
+  ]
+}

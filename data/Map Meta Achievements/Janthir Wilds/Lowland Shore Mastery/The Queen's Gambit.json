@@ -1,0 +1,25 @@
+{
+  "name": "The Queen's Gambit",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Event starts by talking to Autumn's Breath.",
+      "pos": [
+        -15598,
+        1442,
+        2654
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Defeat the Bog Queen.",
+      "pos": [
+        -24539,
+        17629,
+        83
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Hunting in the Grasslands",
+  "objectives": [
+    {
+      "hint": "Subdue the Champion Timber Wolf during \"Engage the wolf pack leader\"event.",
+      "map": 1550,
+      "name": "Received a report about a rather large, hostile wolf in the caves near Moon Camp.",
+      "pos": [
+        13606,
+        -22748,
+        13133
+      ]
+    },
+    {
+      "hint": "Kill the Champion Invasive Iboga during \"Defeat the invasive iboga\"event.",
+      "map": 1550,
+      "name": "Received a report about a large and hostile iboga south of Moon Camp.",
+      "pos": [
+        27351,
+        -14373,
+        11680
+      ]
+    },
+    {
+      "hint": "Defeat the Mushroom King, which appears after completing \"Forage and taste test for edible mushrooms\" event.",
+      "map": 1550,
+      "name": "Received a report about a group being ambushed by a large mushroom while gathering mushrooms in the Bjorn Thicket.",
+      "pos": [
+        30297,
+        -12147,
+        12607
+      ]
+    },
+    {
+      "hint": "Slay the Champion Rampaging Warg during \"Hunt down the rampaging warg\" event.",
+      "map": 1550,
+      "name": "Received a report about a large warg rampaging through Lupine Fields.",
+      "pos": [
+        35826,
+        2339,
+        12940
+      ]
+    },
+    {
+      "hint": "Defeat the Champion Valravn Knight at the end of \"Escort Ardent Gale as she poisons valravn nests\"event, north of Timberland Holt.",
+      "map": 1550,
+      "name": "Received a report of valravn at the cliffs near Lupine Fields.",
+      "pos": [
+        32078,
+        6627,
+        12804
+      ]
+    }
+  ]
+}

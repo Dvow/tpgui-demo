@@ -1,0 +1,515 @@
+{
+  "name": "Lion's Arch Exterminator",
+  "objectives": [
+    {
+      "hint": "Talk to Turl Sharptooth.",
+      "map": 50,
+      "name": "Pick up the rifle.",
+      "pos": [
+        -11604,
+        14382,
+        1236
+      ]
+    },
+    {
+      "hint": "On the roof of the cave.",
+      "map": 50,
+      "name": "Karka Hatchling 1",
+      "pos": [
+        -21067,
+        -6629,
+        79
+      ]
+    },
+    {
+      "hint": "In the small grassy area below.",
+      "map": 50,
+      "name": "Karka Hatchling 2",
+      "pos": [
+        -20907,
+        -5715,
+        2536
+      ]
+    },
+    {
+      "hint": null,
+      "map": 50,
+      "name": "Karka Hatchling 3",
+      "pos": [
+        -19698,
+        -6473,
+        3035
+      ]
+    },
+    {
+      "hint": "Under the bed.",
+      "map": 50,
+      "name": "Karka Hatchling 4",
+      "pos": [
+        -21247,
+        -1844,
+        81
+      ]
+    },
+    {
+      "hint": "Under palm shrubs.",
+      "map": 50,
+      "name": "Karka Hatchling 5",
+      "pos": [
+        -22147,
+        349,
+        1122
+      ]
+    },
+    {
+      "hint": null,
+      "map": 50,
+      "name": "Karka Hatchling 6",
+      "pos": [
+        -11604,
+        14382,
+        1236
+      ]
+    },
+    {
+      "hint": null,
+      "map": 50,
+      "name": "Karka Hatchling 7",
+      "pos": [
+        -18253,
+        14085,
+        1680
+      ]
+    },
+    {
+      "hint": "Up on the wall.",
+      "map": 50,
+      "name": "Karka Hatchling 8",
+      "pos": [
+        27335,
+        10681,
+        1552
+      ]
+    },
+    {
+      "hint": "Near the ceiling.",
+      "map": 50,
+      "name": "Karka Hatchling 9",
+      "pos": [
+        -16666,
+        11589,
+        873
+      ]
+    },
+    {
+      "hint": "Up on the wall.",
+      "map": 50,
+      "name": "Karka Hatchling 10",
+      "pos": [
+        -16727,
+        9097,
+        203
+      ]
+    },
+    {
+      "hint": "Under the bed on the 2nd floor.",
+      "map": 50,
+      "name": "Karka Hatchling 11",
+      "pos": [
+        -11144,
+        14761,
+        1678
+      ]
+    },
+    {
+      "hint": null,
+      "map": 50,
+      "name": "Karka Hatchling 12",
+      "pos": [
+        -11364,
+        15344,
+        1731
+      ]
+    },
+    {
+      "hint": "In the flower bed.",
+      "map": 50,
+      "name": "Karka Hatchling 13",
+      "pos": [
+        -15856,
+        14640,
+        1131
+      ]
+    },
+    {
+      "hint": "Only during the night, dusk or dawn. Inside a water trough.",
+      "map": 50,
+      "name": "Karka Hatchling 14",
+      "pos": [
+        14973,
+        16343,
+        1022
+      ]
+    },
+    {
+      "hint": "On the upper ledge across the room.",
+      "map": 50,
+      "name": "Karka Hatchling 15",
+      "pos": [
+        26390,
+        9685,
+        988
+      ]
+    },
+    {
+      "hint": "Only during the night, dusk or dawn.",
+      "map": 50,
+      "name": "Karka Hatchling 16",
+      "pos": [
+        13574,
+        16981,
+        1158
+      ]
+    },
+    {
+      "hint": "Only during the night, dusk or dawn. Behind the headboard of the bed.",
+      "map": 50,
+      "name": "Karka Hatchling 17",
+      "pos": [
+        14428,
+        13346,
+        1389
+      ]
+    },
+    {
+      "hint": null,
+      "map": 50,
+      "name": "Karka Hatchling 18",
+      "pos": [
+        10391,
+        14152,
+        -11
+      ]
+    },
+    {
+      "hint": "In the bushes.",
+      "map": 50,
+      "name": "Karka Hatchling 19",
+      "pos": [
+        13757,
+        11091,
+        447
+      ]
+    },
+    {
+      "hint": "Under the rock steps.",
+      "map": 50,
+      "name": "Karka Hatchling 20",
+      "pos": [
+        22986,
+        15150,
+        551
+      ]
+    },
+    {
+      "hint": "In a crevice underneath two boulders at the mouth of the river.",
+      "map": 50,
+      "name": "Karka Hatchling 21",
+      "pos": [
+        17170,
+        9424,
+        -19
+      ]
+    },
+    {
+      "hint": "Under the first arch of the bridge to the west of the Guild Bluff Waypoint.",
+      "map": 50,
+      "name": "Karka Hatchling 22",
+      "pos": [
+        16670,
+        7298,
+        87
+      ]
+    },
+    {
+      "hint": "On the rock where the arch connects with the hill.",
+      "map": 50,
+      "name": "Karka Hatchling 23",
+      "pos": [
+        12254,
+        5036,
+        55
+      ]
+    },
+    {
+      "hint": null,
+      "map": 50,
+      "name": "Karka Hatchling 24",
+      "pos": [
+        14604,
+        -151,
+        400
+      ]
+    },
+    {
+      "hint": "Look up near where a misty shower of water falls into the cave.",
+      "map": 50,
+      "name": "Karka Hatchling 25",
+      "pos": [
+        18015,
+        -12649,
+        -21
+      ]
+    },
+    {
+      "hint": "Look up near where a misty shower of water falls into the cave.",
+      "map": 50,
+      "name": "Karka Hatchling 26",
+      "pos": [
+        17662,
+        -12617,
+        -14
+      ]
+    },
+    {
+      "hint": "Look under the tree.",
+      "map": 50,
+      "name": "Karka Hatchling 27",
+      "pos": [
+        18222,
+        -10904,
+        1004
+      ]
+    },
+    {
+      "hint": "At the underside of the rock above you. Press 1 from the water.",
+      "map": 50,
+      "name": "Karka Hatchling 28",
+      "pos": [
+        26627,
+        -16694,
+        -42
+      ]
+    },
+    {
+      "hint": "Behind the flowerpots.",
+      "map": 50,
+      "name": "Karka Hatchling 29",
+      "pos": [
+        -13880,
+        13755,
+        1195
+      ]
+    },
+    {
+      "hint": null,
+      "map": 50,
+      "name": "Karka Hatchling 30",
+      "pos": [
+        -12735,
+        13258,
+        1314
+      ]
+    },
+    {
+      "hint": "under the Crow's Nest building's circular balcony,",
+      "map": 50,
+      "name": "Karka Hatchling 31",
+      "pos": [
+        -11458,
+        9005,
+        1501
+      ]
+    },
+    {
+      "hint": "Behind the palm-tree leaves on the wall.",
+      "map": 50,
+      "name": "Karka Hatchling 32",
+      "pos": [
+        -14208,
+        6053,
+        67
+      ]
+    },
+    {
+      "hint": "On the north face of the northern arch pillar.",
+      "map": 50,
+      "name": "Karka Hatchling 33",
+      "pos": [
+        -14047,
+        2576,
+        85
+      ]
+    },
+    {
+      "hint": "Behind the hanging greenery.",
+      "map": 50,
+      "name": "Karka Hatchling 34",
+      "pos": [
+        -20573,
+        -8042,
+        304
+      ]
+    },
+    {
+      "hint": null,
+      "map": 50,
+      "name": "Karka Hatchling 35",
+      "pos": [
+        -12338,
+        -15178,
+        -32
+      ]
+    },
+    {
+      "hint": "AAcross the inside of the lighthouse.",
+      "map": 50,
+      "name": "Karka Hatchling 36",
+      "pos": [
+        -12484,
+        -14050,
+        2233
+      ]
+    },
+    {
+      "hint": "Under the bridge.",
+      "map": 50,
+      "name": "Karka Hatchling 37",
+      "pos": [
+        -5804,
+        -14163,
+        1333
+      ]
+    },
+    {
+      "hint": "Look up behind the vines.",
+      "map": 50,
+      "name": "Karka Hatchling 38",
+      "pos": [
+        -5797,
+        -13976,
+        -23
+      ]
+    },
+    {
+      "hint": "Inside the fake wall in the west corner on the ground. Scroll in the camera and look for the hatchling with the ground targeting circle.",
+      "map": 50,
+      "name": "Karka Hatchling 39",
+      "pos": [
+        28095,
+        -15568,
+        1183
+      ]
+    },
+    {
+      "hint": "In the waterfall.",
+      "map": 50,
+      "name": "Karka Hatchling 40",
+      "pos": [
+        26897,
+        -14209,
+        2422
+      ]
+    },
+    {
+      "hint": "On the wall in the trap maze.",
+      "map": 50,
+      "name": "Karka Hatchling 41",
+      "pos": [
+        28399,
+        -13062,
+        2749
+      ]
+    },
+    {
+      "hint": "At the waterfall.",
+      "map": 50,
+      "name": "Karka Hatchling 42",
+      "pos": [
+        23480,
+        -14198,
+        1591
+      ]
+    },
+    {
+      "hint": "On a shelf in the corner of the solid wall and the partial wall.",
+      "map": 50,
+      "name": "Karka Hatchling 43",
+      "pos": [
+        20377,
+        -14791,
+        -15
+      ]
+    },
+    {
+      "hint": "Behind the blue banner.",
+      "map": 50,
+      "name": "Karka Hatchling 44",
+      "pos": [
+        -13793,
+        13571,
+        652
+      ]
+    },
+    {
+      "hint": "In the bushes atop a rock pillar.",
+      "map": 50,
+      "name": "Karka Hatchling 45",
+      "pos": [
+        15177,
+        -3354,
+        1268
+      ]
+    },
+    {
+      "hint": "Above the window.",
+      "map": 50,
+      "name": "Karka Hatchling 46",
+      "pos": [
+        9479,
+        8229,
+        1626
+      ]
+    },
+    {
+      "hint": "In a nook up near the glass octopus head.",
+      "map": 50,
+      "name": "Karka Hatchling 47",
+      "pos": [
+        -151,
+        13157,
+        1234
+      ]
+    },
+    {
+      "hint": "On top of the arch.",
+      "map": 50,
+      "name": "Karka Hatchling 48",
+      "pos": [
+        3864,
+        11970,
+        936
+      ]
+    },
+    {
+      "hint": "On the docks. Press 1 from the water.",
+      "map": 50,
+      "name": "Karka Hatchling 49",
+      "pos": [
+        -2495,
+        -1552,
+        -41
+      ]
+    },
+    {
+      "hint": "On the rock.",
+      "map": 50,
+      "name": "Karka Hatchling 50",
+      "pos": [
+        -24221,
+        -2815,
+        1513
+      ]
+    }
+  ]
+}

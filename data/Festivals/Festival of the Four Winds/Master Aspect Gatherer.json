@@ -1,0 +1,105 @@
+{
+  "name": "Master Aspect Gatherer",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Master Sky Crystal 1",
+      "pos": [
+        3876.16,
+        2752.96,
+        3969.6
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Master Sky Crystal 2",
+      "pos": [
+        -5247.04,
+        8030.4,
+        6522.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Master Sky Crystal 3",
+      "pos": [
+        -3352.96,
+        9271.36,
+        5838.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Master Sky Crystal 4",
+      "pos": [
+        7643.84,
+        8266.24,
+        4494.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Master Sky Crystal 5",
+      "pos": [
+        944.64,
+        11072.64,
+        2633.28
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Master Sky Crystal 6",
+      "pos": [
+        -2571.2,
+        -7382.08,
+        2464.96
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Master Sky Crystal 7",
+      "pos": [
+        4100.8,
+        8906.88,
+        3012.8
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Master Sky Crystal 8",
+      "pos": [
+        2189.44,
+        9064.96,
+        4400.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Master Sky Crystal 9",
+      "pos": [
+        2933.12,
+        9961.6,
+        3655.68
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Master Sky Crystal 10",
+      "pos": [
+        3380.8,
+        8114.88,
+        6362.24
+      ]
+    }
+  ]
+}

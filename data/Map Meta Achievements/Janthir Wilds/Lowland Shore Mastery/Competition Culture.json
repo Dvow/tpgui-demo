@@ -1,0 +1,15 @@
+{
+  "name": "Competition Culture",
+  "objectives": [
+    {
+      "hint": "All 6 events rotate one after another in order.",
+      "map": 1550,
+      "name": "Get a gold participation score for all of the events within the Sleuth Brawlfields.",
+      "pos": [
+        28710,
+        12268,
+        3634
+      ]
+    }
+  ]
+}

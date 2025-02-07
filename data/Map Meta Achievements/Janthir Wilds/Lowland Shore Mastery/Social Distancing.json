@@ -1,0 +1,15 @@
+{
+  "name": "Social distancing",
+  "objectives": [
+    {
+      "hint": "During the Bog Queen fight, while affected by rot, dodge away from players.",
+      "map": 1550,
+      "name": "Do not spread the rot to other players when you contact it.",
+      "pos": [
+        -24262,
+        17580,
+        102
+      ]
+    }
+  ]
+}

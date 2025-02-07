@@ -1,0 +1,15 @@
+{
+  "name": "Court Duty: All's Mad That Ends Mad",
+  "objectives": [
+    {
+      "hint": "Doesn't matter which answers you choose.",
+      "map": 50,
+      "name": "Report back to Magister Tassi in Lion's Arch to disclose the truth behind events in the Mad Realm.",
+      "pos": [
+        -3281,
+        6133,
+        944
+      ]
+    }
+  ]
+}

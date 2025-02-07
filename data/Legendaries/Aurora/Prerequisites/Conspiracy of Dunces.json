@@ -1,0 +1,425 @@
+{
+  "name": "Conspiracy of Dunces",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Kassandra 1",
+      "pos": [
+        -9821.952,
+        4869.696,
+        27395.776
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Kassandra 2",
+      "pos": [
+        -5017.568,
+        1044.2496,
+        20918.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Kassandra 3",
+      "pos": [
+        -727.6384,
+        -4371.936,
+        21212.864
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Kassandra 4",
+      "pos": [
+        -10835.904,
+        5914.016,
+        20043.776
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Kassandra 5",
+      "pos": [
+        -14749.792,
+        1694.9856,
+        20110.592
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Kassandra 6",
+      "pos": [
+        2374.2272,
+        2399.232,
+        19779.808
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Kassandra 7",
+      "pos": [
+        7707.52,
+        3242.144,
+        13255.2
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Kassandra 8",
+      "pos": [
+        -1822.9504,
+        3740.704,
+        13021.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Kassandra 9",
+      "pos": [
+        -1688.0832,
+        2836.7072,
+        5940.704
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Kassandra 10",
+      "pos": [
+        -12696.736,
+        -1773.8944,
+        1661.2448
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Kassandra 11",
+      "pos": [
+        -3149.6576,
+        493.248,
+        26393.632
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Kassandra 12",
+      "pos": [
+        618.9056,
+        -797.8784,
+        27020.512
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Kassandra 13",
+      "pos": [
+        164.99104,
+        1579.5104,
+        22032.352
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Kassandra 14",
+      "pos": [
+        10485.76,
+        2369.1552,
+        32496.64
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Grand Savant Valis 1",
+      "pos": [
+        2887.4368,
+        4148.192,
+        27083.584
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Grand Savant Valis 2",
+      "pos": [
+        4024.768,
+        2111.2448,
+        24505.024
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Grand Savant Valis 3",
+      "pos": [
+        12678.016,
+        369.5616,
+        25569.568
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Grand Savant Valis 4",
+      "pos": [
+        11889.12,
+        4357.696,
+        25766.88
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Grand Savant Valis 5",
+      "pos": [
+        -2062.9536,
+        7167.84,
+        21475.904
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Grand Savant Valis 6",
+      "pos": [
+        -6404.128,
+        2326.1216,
+        20435.872
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Grand Savant Valis 7",
+      "pos": [
+        -5648.896,
+        -1342.3232,
+        20024.032
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Grand Savant Valis 8",
+      "pos": [
+        -8744.8,
+        2302.208,
+        21337.664
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Grand Savant Valis 9",
+      "pos": [
+        -5088.544,
+        -3629.248,
+        21510.144
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Grand Savant Valis 10",
+      "pos": [
+        -10774.016,
+        -1198.7296,
+        20224.8
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Grand Savant Valis 11",
+      "pos": [
+        5222.432,
+        4389.984,
+        19462.72
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Grand Savant Valis 12",
+      "pos": [
+        6160.256,
+        -191.53216,
+        12184.544
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Grand Savant Valis 13",
+      "pos": [
+        -8918.368,
+        -1749.488,
+        3708.672
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Grand Savant Valis 14",
+      "pos": [
+        551.7248,
+        3645.472,
+        30515.68
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Justiciar Bauer 1",
+      "pos": [
+        -7542.176,
+        3205.76,
+        26941.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Justiciar Bauer 2",
+      "pos": [
+        -5769.856,
+        5567.168,
+        21477.408
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Justiciar Bauer 3",
+      "pos": [
+        -9439.776,
+        6501.28,
+        20003.328
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Justiciar Bauer 4",
+      "pos": [
+        -5150.304,
+        2124.3264,
+        20315.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Justiciar Bauer 5",
+      "pos": [
+        -7090.56,
+        -2144.0416,
+        21168.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Justiciar Bauer 6",
+      "pos": [
+        -9723.424,
+        -5010.976,
+        20834.336
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Justiciar Bauer 7",
+      "pos": [
+        -14409.12,
+        -3396.0,
+        21175.744
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Justiciar Bauer 8",
+      "pos": [
+        -710.56,
+        -1584.7296,
+        28019.36
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Justiciar Bauer 9",
+      "pos": [
+        -3276.736,
+        -3344.48,
+        27378.464
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Justiciar Bauer 10",
+      "pos": [
+        56.64576,
+        3919.168,
+        27269.824
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Justiciar Bauer 11",
+      "pos": [
+        9009.664,
+        653.4304,
+        31231.36
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Justiciar Bauer 12",
+      "pos": [
+        9448.48,
+        2002.6624,
+        18696.832
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Justiciar Bauer 13",
+      "pos": [
+        8701.408,
+        3928.064,
+        21395.424
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1165,
+      "name": "Justiciar Bauer 14",
+      "pos": [
+        2900.9984,
+        3808.192,
+        21488.0
+      ]
+    }
+  ]
+}

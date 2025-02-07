@@ -1,0 +1,85 @@
+{
+  "name": "A Hard Day's Work",
+  "objectives": [
+    {
+      "hint": "Complete the \"Keep the troll party from getting out of hand\" event.",
+      "map": 1550,
+      "name": "Woken by Peace is the current liaison to the troll community and needs help maintaining order",
+      "pos": [
+        -5131,
+        22103,
+        105
+      ]
+    },
+    {
+      "hint": "Complete the \"Work together to destroy all target while mounted on your warclaw\" event.",
+      "map": 1550,
+      "name": "Charging Ram needs help getting the warclaws to work off some steam over in the tundra.",
+      "pos": [
+        -29321,
+        -11336,
+        10202
+      ]
+    },
+    {
+      "hint": "Complete the \"Help Sheltering Dusk heal the wounded wolf pup\" event.",
+      "map": 1550,
+      "name": "Sheltering Dusk needs a hand helping injured animals in the lower tundra.",
+      "pos": [
+        1938,
+        -20219,
+        12005
+      ]
+    },
+    {
+      "hint": "Complete the \"Collect driftwood to help repair the bridge\" event.",
+      "map": 1550,
+      "name": "Musing Fox is keeping the many bridges safe and sound, but he needs help gathering supplies.",
+      "pos": [
+        -6481,
+        7318,
+        3227
+      ]
+    },
+    {
+      "hint": "Complete the \"Escort Winding Kant as he looks for his lost spear\" event. ",
+      "map": 1550,
+      "name": "Winding Kant has lost something precious out in the tundra and could use some extra eyes.",
+      "pos": [
+        -35132,
+        -10676,
+        10155
+      ]
+    },
+    {
+      "hint": "Complete the \"Help Warming Sun heal the wounded fawn\" event.",
+      "map": 1550,
+      "name": "Warming Sun is tending to displaced animals in the forest and could use a protector.",
+      "pos": [
+        21214,
+        -9921,
+        12164
+      ]
+    },
+    {
+      "hint": "Complete the \"Collect logs by using your warclaw's Chain Pull skill on trees\" event. ",
+      "map": 1550,
+      "name": "Shrouded Woods is trying to meet the lowlander's wood supply needs in the forest and won't say no to help.",
+      "pos": [
+        27341,
+        -1240,
+        12334
+      ]
+    },
+    {
+      "hint": "Complete the \"Defend the kodan from the bog bodies while they gather peat\" event.",
+      "map": 1550,
+      "name": "Autumn's Breath was tasked with gathering peat in the bog and needs more spears.",
+      "pos": [
+        -15677,
+        1507,
+        2654
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Open Skies: Elon Riverlands",
+  "objectives": [
+    {
+      "hint": "Defeat Warden Jabari and free the prisoners to acquire this relic.",
+      "map": 1228,
+      "name": "Limwe, the Rune of Justice",
+      "pos": [
+        11695.194,
+        -33765.543,
+        18.396238
+      ]
+    },
+    {
+      "hint": "Restore the lost equipment of the Sunspear hermit.",
+      "map": 1228,
+      "name": "Golsah, the Rune of Honor",
+      "pos": [
+        -32825.977,
+        34879.324,
+        3879.0835
+      ]
+    },
+    {
+      "hint": "Solve the mystery of the lost spirit's memories.",
+      "map": 1228,
+      "name": "Giwebo, the Rune of Humility",
+      "pos": [
+        -40971.117,
+        -25498.943,
+        498.33948
+      ]
+    },
+    {
+      "hint": "Purchase this relic from Follower Xunn. 25 Gold.",
+      "map": 1228,
+      "name": "Relic Preservation Materials",
+      "pos": [
+        18998.629,
+        36011.684,
+        4012.698
+      ]
+    },
+    {
+      "hint": "Purchase this relic from Ebele. 25 Gold.",
+      "map": 1228,
+      "name": "Maps to the Outpost",
+      "pos": [
+        15213.865,
+        6118.643,
+        1772.231
+      ]
+    },
+    {
+      "hint": "Acquire this relic from the last spearmarshal.",
+      "map": 1248,
+      "name": "Spearmarshal's Plea",
+      "pos": [
+        56193.082,
+        -26253.754,
+        6078.8843
+      ]
+    },
+    {
+      "hint": "Collect this egg from the griffon roost.",
+      "map": 1228,
+      "name": "Warmed Riparian Griffon Egg",
+      "pos": [
+        -1417.6,
+        2043.84,
+        4943.68
+      ]
+    },
+    {
+      "hint": "Collect this egg from atop a mesa over the Vulture Drifts.",
+      "map": 1228,
+      "name": "Rocky Riparian Griffon Egg",
+      "pos": [
+        12952.64,
+        -4692.48,
+        3382.72
+      ]
+    },
+    {
+      "hint": "Collect this egg from a shattered tower.",
+      "map": 1228,
+      "name": "Azure Riparian Griffon Egg",
+      "pos": [
+        -15217.92,
+        -11068.16,
+        3678.08
+      ]
+    }
+  ]
+}

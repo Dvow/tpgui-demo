@@ -1,0 +1,25 @@
+{
+  "name": "Lowland Shore: Diving Googles",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Diving Googles #1",
+      "pos": [
+        18515,
+        11408,
+        5869
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Diving Googles #2",
+      "pos": [
+        -35558,
+        4319,
+        7517
+      ]
+    }
+  ]
+}

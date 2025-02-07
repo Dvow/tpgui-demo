@@ -1,0 +1,58 @@
+{
+  "name": "Court Duty: Where Lunatics Dare",
+  "objectives": [
+    {
+      "name": "Court Duty: The King's Guest | Lunatic After-Action Report"
+    },
+    {
+      "hint": "Present the Lightly Used Soul Jar to Countess Zohrell in the Mad King's Labyrinth.",
+      "map": 866,
+      "name": "Countess's Testimony",
+      "pos": [
+        207,
+        385,
+        8898
+      ]
+    },
+    {
+      "hint": "Present the Tattered Awakened Garment to Duke Wodalr in Lion's Arch.",
+      "map": 50,
+      "name": "Duke's Testimony",
+      "pos": [
+        -4477,
+        14859,
+        925
+      ]
+    },
+    {
+      "hint": "Present the Lunatic After-Action Report to Harrower Veltan in the Mad King's Labyrinth after fighting her in the door event.",
+      "map": 866,
+      "name": "Harrower's Testimony",
+      "pos": [
+        2544,
+        5656,
+        7005
+      ]
+    },
+    {
+      "hint": "Present the Shed Gargoyle Claw to Huntsman Ysdon in the Mad King's Raceway.",
+      "map": 866,
+      "name": "Huntsman's Testimony",
+      "pos": [
+        860,
+        -4108,
+        2088
+      ]
+    },
+    {
+      "hint": "Present the Expert's Guide to Tower Climbing to Courtier Xikka at Inner Harbor in Lion's Arch.",
+      "map": 50,
+      "name": "Courtier's Testimony",
+      "pos": [
+        15132,
+        -310,
+        1444
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Mad Mementos",
+  "objectives": [
+    {
+      "hint": "Use skill 4,interact with Suspicious Location, complete \"the event Drive back the hands of the accused thieves\" to summon Cashel",
+      "map": 24,
+      "name": "Mad Memoires VII: Handless",
+      "pos": [
+        -13265.184,
+        5212.672,
+        2051.7536
+      ]
+    },
+    {
+      "hint": "Use skill 3,interact with Suspicious Location and talk to Fenn",
+      "map": 17,
+      "name": "Mad Memoires VIII: Feast and Famine",
+      "pos": [
+        -34560.0,
+        -5360.192,
+        5150.752
+      ]
+    },
+    {
+      "hint": "Use skill 1,interact with Suspicious Location and complete the door event, then talk to Seamarshal Bennu",
+      "map": 73,
+      "name": "Mad Memoires IX: Pains of Love",
+      "pos": [
+        -16535,
+        17402,
+        372
+      ]
+    },
+    {
+      "hint": "Use skill 4,interact with Suspicious Location and talk to Rufus",
+      "map": 17,
+      "name": "Mad Memoires X: Tax-o'-Lanterns",
+      "pos": [
+        -29012.032,
+        11387.04,
+        1103.7408
+      ]
+    },
+    {
+      "hint": "Use skill 2,interact with Suspicious Location and follow Portia",
+      "map": 17,
+      "name": "Mad Memoires XI: Flames of Renewal",
+      "pos": [
+        -18511,
+        23222,
+        1347
+      ]
+    },
+    {
+      "hint": "Talk to Portia afterwards",
+      "map": 17,
+      "name": "Use skill 1 to reveal the water bucket, use it to extinguish the fire",
+      "pos": [
+        -15544,
+        22159,
+        1458
+      ]
+    },
+    {
+      "hint": "Use skill 3,interact with Suspicious Location   and talk to Wynn",
+      "map": 53,
+      "name": "Mad Memoires XII: Descension",
+      "pos": [
+        9725.536,
+        37031.04,
+        -17.730848
+      ]
+    }
+  ]
+}

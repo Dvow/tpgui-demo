@@ -1,0 +1,25 @@
+{
+  "name": "Feeding Trolls",
+  "objectives": [
+    {
+      "hint": "Feed trolls 20 times in total. Die to a fire for a hidden achievement.",
+      "map": 1550,
+      "name": "Keep the troll party from getting out of hand #1",
+      "pos": [
+        -27850,
+        -19042,
+        10865
+      ]
+    },
+    {
+      "hint": "Feed trolls 20 times in total. Die to a fire for a hidden achievement.",
+      "map": 1550,
+      "name": "Keep the troll party from getting out of hand #2",
+      "pos": [
+        -5153,
+        21999,
+        108
+      ]
+    }
+  ]
+}

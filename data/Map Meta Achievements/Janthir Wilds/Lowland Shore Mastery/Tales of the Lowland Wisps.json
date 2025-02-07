@@ -1,0 +1,165 @@
+{
+  "name": "Tales of the Lowland Wisps",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Meet with Stalwart Heart at Moon Camp.",
+      "pos": [
+        21699,
+        -21307,
+        15479
+      ]
+    },
+    {
+      "hint": "Follow the wisp, swiftness/superspeed can be applied to it.",
+      "map": 1550,
+      "name": "Search under the moon near where your journey begins.",
+      "pos": [
+        20873,
+        -16252,
+        13587
+      ]
+    },
+    {
+      "hint": "Follow the wisp, swiftness/superspeed can be applied to it.",
+      "map": 1550,
+      "name": "Search in the forest near rocky steps.",
+      "pos": [
+        37154,
+        -16623,
+        14916
+      ]
+    },
+    {
+      "hint": "Follow the wisp, swiftness/superspeed can be applied to it.",
+      "map": 1550,
+      "name": "Found among the bones of fallen prey in the home of a beast.",
+      "pos": [
+        37300,
+        2177,
+        13100
+      ]
+    },
+    {
+      "hint": "Follow the wisp, swiftness/superspeed can be applied to it.",
+      "map": 1550,
+      "name": "Hidden near the cove where boats rest.",
+      "pos": [
+        30805,
+        16762,
+        32
+      ]
+    },
+    {
+      "hint": "Follow the wisp, swiftness/superspeed can be applied to it.",
+      "map": 1550,
+      "name": "Search below the lake near the shore that's home to drakes.",
+      "pos": [
+        -2504,
+        19882,
+        747
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Return to Stalwart Heart at Moon Camp.",
+      "pos": [
+        21676,
+        -21283,
+        15478
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Meet with Valiant Aria at Loch Lucent.",
+      "pos": [
+        -5673,
+        18013,
+        4264
+      ]
+    },
+    {
+      "hint": "Follow the wisp, swiftness/superspeed can be applied to it.",
+      "map": 1550,
+      "name": "Found in the bog by small stream where fresh water flows from above.",
+      "pos": [
+        -20104,
+        10090,
+        906
+      ]
+    },
+    {
+      "hint": "Follow the wisp, swiftness/superspeed can be applied to it.",
+      "map": 1550,
+      "name": "Search on the cliffs above the fishing village.",
+      "pos": [
+        -8489,
+        2239,
+        5122
+      ]
+    },
+    {
+      "hint": "Follow the wisp, swiftness/superspeed can be applied to it.",
+      "map": 1550,
+      "name": "Found on the rocks where fish fly.",
+      "pos": [
+        -1223,
+        9486,
+        411
+      ]
+    },
+    {
+      "hint": "Follow the wisp, swiftness/superspeed can be applied to it.",
+      "map": 1550,
+      "name": "Hidden in the southern tundra between a rock and a hard place.",
+      "pos": [
+        630,
+        -15251,
+        11759
+      ]
+    },
+    {
+      "hint": "Follow the wisp, swiftness/superspeed can be applied to it.",
+      "map": 1550,
+      "name": "Search by the springs where water flows on half rings.",
+      "pos": [
+        -21922,
+        -18272,
+        8519
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Meet with Stalwart Heart at Bagoo Cave.",
+      "pos": [
+        -30528,
+        -22553,
+        12028
+      ]
+    },
+    {
+      "hint": "Follow the wisp, swiftness/superspeed can be applied to it.",
+      "map": 1550,
+      "name": "Hidden in Harvest Den near the space with an audience. Talk to the King Wisp in his den.",
+      "pos": [
+        26685,
+        7138,
+        3991
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Return to Stalwart Heart at Valiant Aria's house near Loch Lucent.",
+      "pos": [
+        -5730,
+        17989,
+        4266
+      ]
+    }
+  ]
+}

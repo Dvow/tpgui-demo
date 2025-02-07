@@ -1,0 +1,15 @@
+{
+  "name": "Excrement Exterminator",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Put all 5 scats in the area into the compost pile.",
+      "pos": [
+        -31504,
+        -1402,
+        8293
+      ]
+    }
+  ]
+}

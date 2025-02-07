@@ -1,0 +1,185 @@
+{
+  "name": "Star-Crossed Lovers",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Talk to Flowering Meadow at Harvest Den.",
+      "pos": [
+        22297,
+        -701,
+        10077
+      ]
+    },
+    {
+      "hint": "You can pick up the flower, take a few steps back and collect the same one as many times as you want.",
+      "map": 1550,
+      "name": "Gather five wildflowers for Flowering Meadow.",
+      "pos": [
+        30765,
+        1216,
+        12533
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Give the collected wildflowers to Flowering Meadow.",
+      "pos": [
+        22297,
+        -700,
+        10077
+      ]
+    },
+    {
+      "hint": null,
+      "map": 30,
+      "name": "Deliver wildflowers and a love letter to a kodan named Winter Sky.",
+      "pos": [
+        -23313,
+        -15386,
+        1270
+      ]
+    },
+    {
+      "hint": null,
+      "map": 30,
+      "name": "Earn Winter Sky's trust by defending the bridge to Blue Ice Shining.",
+      "pos": [
+        -24733,
+        -13817,
+        138
+      ]
+    },
+    {
+      "hint": null,
+      "map": 30,
+      "name": "Return to Winter Sky.",
+      "pos": [
+        -23323,
+        -15419,
+        1270
+      ]
+    },
+    {
+      "hint": null,
+      "map": 30,
+      "name": "Pick up a corrupted ice shard.",
+      "pos": [
+        -34755,
+        34568,
+        482
+      ]
+    },
+    {
+      "hint": null,
+      "map": 30,
+      "name": "Bring Winter Sky a corrupted ice shard.",
+      "pos": [
+        -23316,
+        -15435,
+        1270
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Deliver an ice sculpture and a message to Flowering Meadow.",
+      "pos": [
+        22297,
+        -701,
+        10077
+      ]
+    },
+    {
+      "hint": "Complete the event. Check Buzzy Treetops section.",
+      "map": 1550,
+      "name": "Get honey from the honey-gathering event.",
+      "pos": [
+        34090,
+        -1841,
+        12605
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Get healing herbs from the \"Heal the wounded wolf pup\" event...",
+      "pos": [
+        1674,
+        -20110,
+        11939
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "or \"Heal the wounded fawn\" event.",
+      "pos": [
+        630,
+        -15251,
+        11759
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Give the ingredients to Flowering Meadow.",
+      "pos": [
+        22296,
+        -677,
+        10072
+      ]
+    },
+    {
+      "hint": null,
+      "map": 30,
+      "name": "Give Winter Sky the healing concoction.",
+      "pos": [
+        -23319,
+        -15408,
+        1270
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Meet Flowering Meadow and Winter Sky in Harvest Den. Talk to Distant Thunder.",
+      "pos": [
+        22297,
+        -689,
+        10077
+      ]
+    },
+    {
+      "hint": "Complete \"Dance among the kodan\" or \"Get warclaw cubs back in their pens before they eat the cabbages\" events.",
+      "map": 1550,
+      "name": "Earn Distant Thunder's trust by completing events in Harvest Den.",
+      "pos": [
+        20903,
+        -1210,
+        8438
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Convince Distant Thunder to let Winter Sky stay.",
+      "pos": [
+        22606,
+        -1220,
+        10082
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Go back to the couple at their homestead in Harvest Den.",
+      "pos": [
+        23836,
+        -2630,
+        9720
+      ]
+    }
+  ]
+}

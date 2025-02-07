@@ -1,0 +1,295 @@
+{
+  "name": "Gettin' the Crew Together",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Complete Raven Scouting adventure to unlock it.",
+      "pos": [
+        31220,
+        -24376,
+        16234
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Find Zizel in Moon Camp.",
+      "pos": [
+        22082,
+        -21742,
+        15478
+      ]
+    },
+    {
+      "hint": "Talk to Snuggling Stone who's below the stairs over the central fountain.",
+      "map": 1550,
+      "name": "Find the cat Zizel mentioned",
+      "pos": [
+        21983,
+        -19694,
+        15556
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Report back to Zizel about your first test of the potion.",
+      "pos": [
+        22082,
+        -21742,
+        15478
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Find Ms. Jeeves in Harvest Den.",
+      "pos": [
+        17429,
+        3258,
+        5904
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Transform into a fish.",
+      "pos": [
+        19696,
+        -18940,
+        12263
+      ]
+    },
+    {
+      "hint": "Talk to Salty the Sly.",
+      "map": 1550,
+      "name": "Ms. Jeeves needs someone with excellent swimming skills to join the crew.",
+      "pos": [
+        -19380,
+        -2764,
+        -103
+      ]
+    },
+    {
+      "hint": "While the event \"Collect frogs across the river and bring them back to the pot\" is active, grab a frog and then jump in the water.",
+      "map": 1550,
+      "name": "Take the frog when the pot event is ready and enter the water",
+      "pos": [
+        -7344,
+        -10360,
+        5942
+      ]
+    },
+    {
+      "hint": "Talk to Mrs. Legs, the Temptress.",
+      "map": 1550,
+      "name": "Ms. Jeeves needs someone who can produce a loud croak as a distraction.",
+      "pos": [
+        -34587,
+        4060,
+        114
+      ]
+    },
+    {
+      "hint": "Talk to Fang, the Wise Guy. Pick up and feed him a special cabbage during \"Get warclaw cubs back in their pens before they eat the cabbages\"event.",
+      "map": 1550,
+      "name": "Ms. Jeeves needs someone small, with a good nose and great jumping skills.",
+      "pos": [
+        20061,
+        -4583,
+        8380
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Complete the \"Heal the wounded wolf pup\" event.",
+      "pos": [
+        2236,
+        -20197,
+        12048
+      ]
+    },
+    {
+      "hint": "Talk to Mrs. Night, the Eyes and Ears.",
+      "map": 1550,
+      "name": "Ms. Jeeves needs someone with excellent hearing and night vision as well as a loud howl.",
+      "pos": [
+        19781,
+        -27481,
+        13352
+      ]
+    },
+    {
+      "hint": "It's enough to fill it with honey once.",
+      "map": 1550,
+      "name": "Get a jar from Blossoming Spring and fill it with Honey.",
+      "pos": [
+        34116,
+        -1913,
+        12611
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Bring the jar of honey to Mrs. Buzz.",
+      "pos": [
+        36240,
+        -4313,
+        13593
+      ]
+    },
+    {
+      "hint": "Talk to Ms. Buzz in the hive.",
+      "map": 1550,
+      "name": "Ms. Jeeves needs a hardworking sort, used to large groups and sticky situations.",
+      "pos": [
+        -7843,
+        -3021,
+        6899
+      ]
+    },
+    {
+      "hint": "Her other escort in Grasslands also works.",
+      "map": 1550,
+      "name": "Complete \"Escort Ardent Gale as she poisons valravn nests\" event to talk to Ms. blood.",
+      "pos": [
+        -6537,
+        -1560,
+        7712
+      ]
+    },
+    {
+      "hint": "Talk to Ms. Blood, the Assassin.",
+      "map": 1550,
+      "name": "Ms. Jeeves needs an aerial fighter who is not afraid of a little blood.",
+      "pos": [
+        6448,
+        -6826,
+        13292
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Check back in with Ms. Jeeves to get your next instructions.",
+      "pos": [
+        17427,
+        3226,
+        5904
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1554,
+      "name": "Find Mr. Ribbington in Janthir Syntri.",
+      "pos": [
+        26461,
+        -26884,
+        132
+      ]
+    },
+    {
+      "hint": "Can be immediately aborted to proceed next.",
+      "map": 1554,
+      "name": "Complete the adventure, Janthir Syntri: Save Woodland Creatures.",
+      "pos": [
+        -12449,
+        -22751,
+        1705
+      ]
+    },
+    {
+      "hint": "Talk to Mr. Hop, the Speedster, Mr. Shadow, the Drama King, and Ms. Stripes, the Masked Bandit.",
+      "map": 1554,
+      "name": "Mr. Ribbington needs a group of animals that can get into small spaces.",
+      "pos": [
+        -13558,
+        -23960,
+        1756
+      ]
+    },
+    {
+      "hint": "Give her a Debris found on the shore during \"Clean up and turn in debris collected from the shore and enemies\" event.",
+      "map": 1554,
+      "name": "Pick up Debris and bring it to Ms. Claws.",
+      "pos": [
+        23335,
+        19470,
+        21
+      ]
+    },
+    {
+      "hint": "Talk to Ms. Claws, the Brains.",
+      "map": 1554,
+      "name": "Mr. Ribbington needs someone with a couple of pincers to blend in with a cast.",
+      "pos": [
+        24477,
+        16868,
+        340
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1554,
+      "name": "Defeat the Adolsecent Leviathan.",
+      "pos": [
+        26259,
+        19740,
+        8
+      ]
+    },
+    {
+      "hint": "Talk to Mr. Razor, the Loudmouth.",
+      "map": 1554,
+      "name": "Mr. Ribbington needs someone who is a strong swimmer -- preferably large -- with a nasty bite.",
+      "pos": [
+        34065,
+        18052,
+        -139
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1554,
+      "name": "You've found all the animals Mr. Ribbington needs. Check back in with him.",
+      "pos": [
+        26468,
+        -26869,
+        132
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "You've found all the animals. Report to Ms. Jeeves.",
+      "pos": [
+        17424,
+        3227,
+        5904
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Ms. Jeeves is going to address the gathered crew in the cave where you found Mrs. Night.",
+      "pos": [
+        20257,
+        -26905,
+        13327
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "The heist is on! It's time to report to Zizel about your findings.",
+      "pos": [
+        22075,
+        -21722,
+        15478
+      ]
+    }
+  ]
+}

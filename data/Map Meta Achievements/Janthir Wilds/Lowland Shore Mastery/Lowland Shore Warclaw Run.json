@@ -1,0 +1,15 @@
+{
+  "name": "Warclaw Run Adventure  ",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Start of the adventure.",
+      "pos": [
+        -25350,
+        -5174,
+        8102
+      ]
+    }
+  ]
+}

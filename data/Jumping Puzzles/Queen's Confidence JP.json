@@ -1,0 +1,49 @@
+{
+  "name": "Queen's Confidence",
+  "objectives": [
+    {
+      "hint": "They swap places with each other daily or map based.",
+      "name": "Pet Beavis, then Combs, then Honey."
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Bee #1",
+      "pos": [
+        -6903,
+        -4717,
+        7461
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Bee #2",
+      "pos": [
+        -6987,
+        -4670,
+        6547
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Bee #3",
+      "pos": [
+        -7160,
+        -3108,
+        6107
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Open the chest",
+      "pos": [
+        -8009,
+        -2985,
+        6115
+      ]
+    }
+  ]
+}

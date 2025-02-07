@@ -1,0 +1,73 @@
+{
+  "name": "Coalescence III: Culmination",
+  "objectives": [
+    {
+      "hint": "To acquire, defeat Cardinal Adina.",
+      "map": 1323,
+      "name": "Twisted Essence of Generosity",
+      "pos": null
+    },
+    {
+      "hint": "To acquire, defeat Cardinal Sabir.",
+      "map": 1323,
+      "name": "Twisted Essence of Resolve",
+      "pos": null
+    },
+    {
+      "hint": "To acquire, defeat Qadim the Peerless.",
+      "map": 1323,
+      "name": "Twisted Essence of Trust",
+      "pos": null
+    },
+    {
+      "hint": "Talk to Hasara.",
+      "map": 1226,
+      "name": "Worn Meditation Logbook",
+      "pos": [
+        57185.28,
+        -26240.64,
+        6039.36
+      ]
+    },
+    {
+      "hint": "Interact with the Strange Energy.",
+      "map": 1248,
+      "name": "Purified Essence of Generosity",
+      "pos": [
+        57185.28,
+        -26240.64,
+        6039.36
+      ]
+    },
+    {
+      "hint": "Interact with the Strange Energy.",
+      "map": 1248,
+      "name": "Purified Essence of Resolve",
+      "pos": [
+        57185.28,
+        -26240.64,
+        6039.36
+      ]
+    },
+    {
+      "hint": "Interact with the Strange Energy.",
+      "map": 1248,
+      "name": "Purified Essence of Trust",
+      "pos": [
+        57185.28,
+        -26240.64,
+        6039.36
+      ]
+    },
+    {
+      "hint": "Interact with the Strange Energy.",
+      "map": 1248,
+      "name": "Infused Meditation Log Book",
+      "pos": [
+        57185.28,
+        -26240.64,
+        6039.36
+      ]
+    }
+  ]
+}

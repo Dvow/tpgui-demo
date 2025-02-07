@@ -1,0 +1,125 @@
+{
+  "name": "Chasing Waterfalls: Lowland Shore",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "A long drop, but is that a barrel at the bottom?",
+      "pos": [
+        3729,
+        -10311,
+        6695
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Near a flying base.",
+      "pos": [
+        24739,
+        -26229,
+        12340
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Large drops heading into a busy village.",
+      "pos": [
+        13251,
+        -3834,
+        6287
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "There is a faint trail of sawdust in the water from far above the stream.",
+      "pos": [
+        12098,
+        13010,
+        2269
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Below very large tracks and the smell of crops.",
+      "pos": [
+        10898,
+        14212,
+        1745
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Below where logs tumble down and frogs are gathered.",
+      "pos": [
+        -8698,
+        -7434,
+        -166
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Fish come flying down from under a flying base.",
+      "pos": [
+        18979,
+        9677,
+        2458
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "At a kodan outpost that smell strongly of fish.",
+      "pos": [
+        -2014,
+        3718,
+        -42
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "At the mouth where two rivers meet, there is a strong smell of fish in the air.",
+      "pos": [
+        1787,
+        6607,
+        810
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "After a large drop, ou can see the flickering of braziers far above you.",
+      "pos": [
+        4289,
+        -1604,
+        63
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "While the pervasive stench of a bog fills your nose...wait. Is that a...lizard?",
+      "pos": [
+        -32191,
+        3049,
+        102
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Surrounded by the smell of a bog, you can hear the faint growls of warclaws from far above.",
+      "pos": [
+        -27803,
+        -868,
+        32
+      ]
+    }
+  ]
+}

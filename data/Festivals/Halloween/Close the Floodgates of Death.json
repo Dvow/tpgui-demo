@@ -1,0 +1,15 @@
+{
+  "name": "Close the Floodgates of Death",
+  "objectives": [
+    {
+      "hint": "Requires the achievement \"Mad Maleficence\" to be completed.",
+      "map": 50,
+      "name": "Debrief Brigadier General Kernel on your accomplishments.",
+      "pos": [
+        5801,
+        -11536,
+        990
+      ]
+    }
+  ]
+}

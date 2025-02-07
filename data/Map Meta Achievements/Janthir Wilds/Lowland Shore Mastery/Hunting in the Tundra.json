@@ -1,0 +1,55 @@
+{
+  "name": "Hunting in the Tundra",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Help a kodan retrieve their lost spear from a formidable creature in the Coursing Upland.",
+      "pos": [
+        -35109,
+        -10749,
+        10167
+      ]
+    },
+    {
+      "hint": "Complete the \"Hunt down the rampaging reindeer\" event.",
+      "map": 1550,
+      "name": "A report has been received about a reindeer rampaging in the Cragged Upland",
+      "pos": [
+        1237,
+        -15541,
+        11775
+      ]
+    },
+    {
+      "hint": "Complete the \"Join the kodan on her hunting expedition\" event.",
+      "map": 1550,
+      "name": "Help a kodan hunter in the Cragged Upland track down a warclaw.",
+      "pos": [
+        -9596,
+        -17502,
+        8806
+      ]
+    },
+    {
+      "hint": "Complete the \"Join the kodan on his hunting expedition\" event.",
+      "map": 1550,
+      "name": "Help a kodan hunter in the Coursing Upland track down a reindeer.",
+      "pos": [
+        -32916,
+        -3315,
+        8271
+      ]
+    },
+    {
+      "hint": "Complete the \"Defeat the rotling before it razes the area\" event.",
+      "map": 1550,
+      "name": "Kill the rampaging stranger spawn in the Cragged Upland.",
+      "pos": [
+        -4358,
+        -17637,
+        12177
+      ]
+    }
+  ]
+}

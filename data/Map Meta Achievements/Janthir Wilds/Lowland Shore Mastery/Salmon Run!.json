@@ -1,0 +1,25 @@
+{
+  "name": "Salmon, Run!",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Lowland Shore Moon Camp Covert Salmon Run",
+      "pos": [
+        19813,
+        -18920,
+        12254
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Lowland Shore: Harvest Shore Salmon Run",
+      "pos": [
+        26154,
+        22508,
+        73
+      ]
+    }
+  ]
+}

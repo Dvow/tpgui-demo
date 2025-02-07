@@ -1,0 +1,55 @@
+{
+  "name": "Hunting in the Wetlands",
+  "objectives": [
+    {
+      "hint": "Defeat the Champion Basilisk near Reptilia Pools.",
+      "map": 1550,
+      "name": "A report has been received about a basilisk rampaging in the bog.",
+      "pos": [
+        -15758,
+        20869,
+        40
+      ]
+    },
+    {
+      "hint": "Defeat the Champion Valravn Knight at the end of Escort Ardent Gale as she poisons valravn nests, southeast of Valravn's Perch.",
+      "map": 1550,
+      "name": "There are reports of a valravn knight hiding near the upper waterfalls.",
+      "pos": [
+        -6446,
+        -1536,
+        7712
+      ]
+    },
+    {
+      "hint": "Defeat the Champion Valravn south of Maul Boneyards.",
+      "map": 1550,
+      "name": "A valravn is lurking near the graveyard and needs to be dealt with before it eats someone's heart.",
+      "pos": [
+        -15766,
+        10798,
+        8369
+      ]
+    },
+    {
+      "hint": "Defeat the Champion Reef Shark in \"Kill the reef shark in the delta bog\" event.",
+      "map": 1550,
+      "name": "A large shark has been spotted off the coast and is interfering with the balance of sea life.",
+      "pos": [
+        -38902,
+        18053,
+        65
+      ]
+    },
+    {
+      "hint": "Defeat the Champion Drake Matriarch after \"Catch and collect the flying fish\" event.",
+      "map": 1550,
+      "name": "Drakes have been attracted to the local catch in the fishing village, and the kodan need a hand driving them away.",
+      "pos": [
+        -2658,
+        7509,
+        181
+      ]
+    }
+  ]
+}

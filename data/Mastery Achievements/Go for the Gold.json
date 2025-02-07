@@ -1,0 +1,305 @@
+{
+  "name": "Go for the Gold",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #1",
+      "pos": [
+        19486,
+        -13744,
+        17464
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #2",
+      "pos": [
+        13846,
+        -11829,
+        17637
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #3",
+      "pos": [
+        12038,
+        -16316,
+        13747
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #4",
+      "pos": [
+        10449,
+        -6623,
+        11997
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #5",
+      "pos": [
+        -938,
+        12,
+        14565
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #6",
+      "pos": [
+        10764,
+        3928,
+        9632
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #7",
+      "pos": [
+        10810,
+        6770,
+        10796
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #8",
+      "pos": [
+        -19759,
+        -13923,
+        13020
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #9",
+      "pos": [
+        14769,
+        -3664,
+        12989
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #10",
+      "pos": [
+        -930,
+        18154,
+        16545
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #11",
+      "pos": [
+        8534,
+        15915,
+        14816
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #12",
+      "pos": [
+        8489,
+        10503,
+        15173
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #13",
+      "pos": [
+        -22653,
+        -9287,
+        6914
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #14",
+      "pos": [
+        -19084,
+        -10520,
+        12474
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #15",
+      "pos": [
+        -21298,
+        -8263,
+        2542
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #16",
+      "pos": [
+        -17389,
+        -4824,
+        1066
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #17",
+      "pos": [
+        17371,
+        -9800,
+        18120
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #18",
+      "pos": [
+        -10765,
+        -907,
+        624
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #19",
+      "pos": [
+        -6710,
+        -3013,
+        7355
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #20",
+      "pos": [
+        2846,
+        -2660,
+        9463
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #21",
+      "pos": [
+        -240,
+        1819,
+        10102
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #22",
+      "pos": [
+        8231,
+        5759,
+        11019
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #23",
+      "pos": [
+        9709,
+        338,
+        12049
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #24",
+      "pos": [
+        16129,
+        6544,
+        11833
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #25",
+      "pos": [
+        16652,
+        1297,
+        11692
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #26",
+      "pos": [
+        15507,
+        1920,
+        13530
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #27",
+      "pos": [
+        9487,
+        -6216,
+        15103
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #28",
+      "pos": [
+        -1808,
+        -2665,
+        18213
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #29",
+      "pos": [
+        -5013,
+        -2004,
+        16584
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Golden Lost Badge #30",
+      "pos": [
+        10073,
+        -1185,
+        12938
+      ]
+    }
+  ]
+}

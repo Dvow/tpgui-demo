@@ -1,0 +1,15 @@
+{
+  "name": "Rivalry of Kings",
+  "objectives": [
+    {
+      "hint": "Requires the achievement \"Be My Guest\" to be completed.",
+      "map": 50,
+      "name": "Report to Brigadier General Kernel on the latest developments in the eternal battle between Mad King Thorn and Palawa Joko",
+      "pos": [
+        5761,
+        -11536,
+        990
+      ]
+    }
+  ]
+}

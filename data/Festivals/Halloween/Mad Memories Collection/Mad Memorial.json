@@ -1,0 +1,75 @@
+{
+  "name": "Mad Memorial",
+  "objectives": [
+    {
+      "hint": "Requires the achievement\"Arguably Foodlike\"to be completed.",
+      "map": 50,
+      "name": "XIII Apocrypha",
+      "pos": [
+        -3363,
+        15274,
+        837
+      ]
+    },
+    {
+      "hint": "",
+      "map": 50,
+      "name": "Enter the Mad King's Labyrinth",
+      "pos": [
+        -3656,
+        16271,
+        920
+      ]
+    },
+    {
+      "hint": "Requires the achievement\"Routing the Rebel Rabble\"to be completed.",
+      "map": 866,
+      "name": "Mad Memoires XIV: Lunacy",
+      "pos": [
+        5991,
+        5867,
+        10971
+      ]
+    },
+    {
+      "hint": "Requires the achievement\"Courtly Service\"to be completed. Spend 5 gold at Mad King's Servant to complete it.",
+      "map": 866,
+      "name": "Mad Memoires XV: Fabrication",
+      "pos": [
+        291,
+        -87,
+        8847
+      ]
+    },
+    {
+      "hint": "Requires the achievement\"Pumpkin Carving\"to be completed.",
+      "map": 50,
+      "name": "XVI: Hallowed Eves",
+      "pos": [
+        -652,
+        4768,
+        933
+      ]
+    },
+    {
+      "hint": "Requires the achievement\"Ancient Grudge\"to be completed.",
+      "map": 50,
+      "name": "Mad Memoires XVII: Rivalry",
+      "pos": [
+        5754,
+        -11496,
+        990
+      ]
+    },
+    {
+      "hint": "Requires the achievement\"Lunatic Fashion\"to be completed.",
+      "map": 50,
+      "name": "Mad Memoires XVIII: Binding Agreement",
+      "pos": [
+        16238,
+        784,
+        1469
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Buzzy Treetops",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Get a honey jar from Blossoming Spring to start the jumping puzzle",
+      "pos": [
+        34166,
+        -1889,
+        12617
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Buzzie's Beehive",
+      "pos": [
+        33719,
+        -2799,
+        13275
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Mrs. Buzz's Beehive",
+      "pos": [
+        35233,
+        -2466,
+        13514
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Bob's Beehive",
+      "pos": [
+        35004,
+        -2010,
+        14041
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Ebuzzabeth's Beehive",
+      "pos": [
+        35503,
+        -2293,
+        14040
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Buzzem's Beehive",
+      "pos": [
+        34938,
+        -3454,
+        13847
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Buzzlinda's Beehive",
+      "pos": [
+        35088,
+        -3794,
+        14406
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "McBuzzer's Beehive",
+      "pos": [
+        34897,
+        -4138,
+        13919
+      ]
+    }
+  ]
+}

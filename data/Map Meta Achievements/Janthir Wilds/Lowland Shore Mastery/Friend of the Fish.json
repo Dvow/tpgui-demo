@@ -1,0 +1,25 @@
+{
+  "name": "Friend of the Fish",
+  "objectives": [
+    {
+      "hint": "Cleanse 20 fish in total",
+      "map": 1550,
+      "name": "Help the Astral Ward clean up the ocean near the village shore.",
+      "pos": [
+        -35556,
+        23037,
+        -392
+      ]
+    },
+    {
+      "hint": "Cleanse 20 fish in total",
+      "map": 1550,
+      "name": "Help the Astral Ward clean up the ocean.",
+      "pos": [
+        -35558,
+        4319,
+        7517
+      ]
+    }
+  ]
+}

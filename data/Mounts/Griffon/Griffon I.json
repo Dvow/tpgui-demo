@@ -1,0 +1,95 @@
+{
+  "name": "Open Skies: Crystal Oasis",
+  "objectives": [
+    {
+      "hint": "Recover this rune from the corrupted facet legendary bounty.",
+      "map": 1210,
+      "name": "Gundayo, the Rune of Honesty",
+      "pos": [
+        46196.777,
+        15144.389,
+        7223.3857
+      ]
+    },
+    {
+      "hint": "Purchase this relic from Priest Hakim. 25 Gold.",
+      "map": 1210,
+      "name": "Icon of the Goddess",
+      "pos": [
+        27904.488,
+        4475.604,
+        4886.176
+      ]
+    },
+    {
+      "hint": "Purchase this relic from Priestess Karima. 25 Gold.",
+      "map": 1210,
+      "name": "Sunspear Tithe",
+      "pos": [
+        -14011.102,
+        -13593.885,
+        324.75308
+      ]
+    },
+    {
+      "hint": "Acquire this relic from the last spearmarshal.",
+      "map": 1248,
+      "name": "Spearmarshal's Plea",
+      "pos": [
+        56193.082,
+        -26253.754,
+        6078.8843
+      ]
+    },
+    {
+      "hint": "Collect this egg from the griffon roost.",
+      "map": 1210,
+      "name": "Warmed Coastal Griffon Egg",
+      "pos": [
+        22084.16,
+        14872.96,
+        10961.6
+      ]
+    },
+    {
+      "hint": "Collect this egg from a mesa overlooking the Hatari Tablelands.",
+      "map": 1210,
+      "name": "Browned Coastal Griffon Egg",
+      "pos": [
+        6675.84,
+        24542.4,
+        6722.24
+      ]
+    },
+    {
+      "hint": "Collect this egg precariously set atop The Teratohedron.",
+      "map": 1210,
+      "name": "Lustrous Coastal Griffon Egg",
+      "pos": [
+        48684.8,
+        17921.92,
+        12547.84
+      ]
+    },
+    {
+      "hint": "Collect this egg from atop a pillar around the Sanctum of Nabkha.",
+      "map": 1210,
+      "name": "Dusty Coastal Griffon Egg",
+      "pos": [
+        29321.28,
+        -19519.68,
+        6294.72
+      ]
+    },
+    {
+      "hint": "Collect this egg from a cliffside nest below the griffon roost.",
+      "map": 1210,
+      "name": "Ridged Coastal Griffon Egg",
+      "pos": [
+        21951.04,
+        13488.32,
+        6794.24
+      ]
+    }
+  ]
+}

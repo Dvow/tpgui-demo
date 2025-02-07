@@ -1,0 +1,405 @@
+{
+  "name": "Token Collector",
+  "objectives": [
+    {
+      "hint": "Infernal Cape: On the eastern side of the volcano.",
+      "map": 1175,
+      "name": "Mursaat Token 1",
+      "pos": [
+        -3203.0,
+        -17994.0,
+        201.0
+      ]
+    },
+    {
+      "hint": "Burning Grotto: In the northern exit of the Furnace Chamber.",
+      "map": 1175,
+      "name": "Mursaat Token 2",
+      "pos": [
+        4623.84,
+        -9243.456,
+        1830.6496
+      ]
+    },
+    {
+      "hint": "Burning Grotto: In the northern exit of the Furnace Chamber.",
+      "map": 1175,
+      "name": "Mursaat Token 3",
+      "pos": [
+        9219.488,
+        -26151.072,
+        843.5328
+      ]
+    },
+    {
+      "hint": "Burning Grotto: Hidden in a crevice in the back of the Furnace Chamber.",
+      "map": 1175,
+      "name": "Mursaat Token 4",
+      "pos": [
+        10180.672,
+        -26067.648,
+        1262.192
+      ]
+    },
+    {
+      "hint": "Smoldering Inlet: On the rocks northeast of the Magma Outlet.",
+      "map": 1175,
+      "name": "Mursaat Token 5",
+      "pos": [
+        10025.312,
+        -34443.84,
+        1404.0096
+      ]
+    },
+    {
+      "hint": "Lava Flats: At the source of the Lava River.",
+      "map": 1175,
+      "name": "Mursaat Token 6",
+      "pos": [
+        11952.928,
+        -3022.1056,
+        3630.24
+      ]
+    },
+    {
+      "hint": "Fractured Caldera: To the northeast of Quickk's Retreat.",
+      "map": 1175,
+      "name": "Mursaat Token 7",
+      "pos": [
+        922.4096,
+        -4901.664,
+        2589.7984
+      ]
+    },
+    {
+      "hint": "Smoldering Inlet: Between rock shelfs in the mouth of the Magma Outlet.",
+      "map": 1175,
+      "name": "Mursaat Token 8",
+      "pos": [
+        2367.8656,
+        -8604.928,
+        1284.4288
+      ]
+    },
+    {
+      "hint": "Caliph's Steps: Under a rock shelf on the western beach.",
+      "map": 1175,
+      "name": "Mursaat Token 9",
+      "pos": [
+        -35064.96,
+        -459.7696,
+        204.7584
+      ]
+    },
+    {
+      "hint": "Burning Grotto: Within the top shelf of the Furnace Chamber.",
+      "map": 1175,
+      "name": "Mursaat Token 10",
+      "pos": [
+        10215.68,
+        -33942.72,
+        4800.064
+      ]
+    },
+    {
+      "hint": "Smoldering Inlet: Near the peninsula in the inlet, within a small underwater cave.",
+      "map": 1175,
+      "name": "Mursaat Token 11",
+      "pos": [
+        3774.464,
+        -17800.288,
+        -1646.72
+      ]
+    },
+    {
+      "hint": "Osprey Pillars: On the southwestern area, in the basaltic pillar underbelly.",
+      "map": 1175,
+      "name": "Mursaat Token 12",
+      "pos": [
+        -26091.168,
+        -32695.68,
+        1373.936
+      ]
+    },
+    {
+      "hint": "Performance Field: look for a crack in the wall in the Sloth Queen's quarters.",
+      "map": 1175,
+      "name": "Mursaat Token 13",
+      "pos": [
+        -26686.0,
+        -5824.0,
+        1554.0
+      ]
+    },
+    {
+      "hint": "Infernal Cape: Within a magma fall on the northwestern side of the volcano.",
+      "map": 1175,
+      "name": "Mursaat Token 14",
+      "pos": [
+        -7978.24,
+        -15895.296,
+        5205.024
+      ]
+    },
+    {
+      "hint": "Fractured Caldera: On the upper rock-shelf tiers of the western side.",
+      "map": 1175,
+      "name": "Mursaat Token 15",
+      "pos": [
+        -6509.216,
+        430.3008,
+        5934.304
+      ]
+    },
+    {
+      "hint": "Infernal Cape: Under the volcano, hidden underwater.",
+      "map": 1175,
+      "name": "Mursaat Token 16",
+      "pos": [
+        -7816.0,
+        -16874.688,
+        -3438.368
+      ]
+    },
+    {
+      "hint": "Skritt Anchorage: At the highest point of the Dread Shiny.",
+      "map": 1175,
+      "name": "Mursaat Token 17",
+      "pos": [
+        21516.16,
+        -16900.512,
+        1492.1632
+      ]
+    },
+    {
+      "hint": "Burning Grotto: Within the outer rock shelfs on the southern side.",
+      "map": 1175,
+      "name": "Mursaat Token 18",
+      "pos": [
+        13173.44,
+        -39088.64,
+        66.01056
+      ]
+    },
+    {
+      "hint": "Burning Grotto: Under the Furnace Chamber on the southeastern side.",
+      "map": 1175,
+      "name": "Mursaat Token 19",
+      "pos": [
+        14708.0,
+        -35712.0,
+        -61.0
+      ]
+    },
+    {
+      "hint": "Caliph's Steps: Next to the magma fall at the sealed entrance.",
+      "map": 1175,
+      "name": "Mursaat Token 20",
+      "pos": [
+        -25699.84,
+        -829.0656,
+        3540.416
+      ]
+    },
+    {
+      "hint": "Bleeding Pulpit: Hiding in the north outer wall of the Pedestal of Flames.",
+      "map": 1175,
+      "name": "Mursaat Token 21",
+      "pos": [
+        -9965.536,
+        -10039.424,
+        502.064
+      ]
+    },
+    {
+      "hint": "Fractured Caldera: Along the riverbed of the magma outlet.",
+      "map": 1175,
+      "name": "Mursaat Token 22",
+      "pos": [
+        3797.44,
+        -5353.888,
+        715.744
+      ]
+    },
+    {
+      "hint": "Sopor Titanum: Within the walls of the easternmost part of the volcano.",
+      "map": 1175,
+      "name": "Mursaat Token 23",
+      "pos": [
+        -9876.32,
+        -1769.072,
+        5956.64
+      ]
+    },
+    {
+      "hint": "Sopor Titanum: Within the walls of the easternmost part of the volcano.",
+      "map": 1175,
+      "name": "Mursaat Token 24",
+      "pos": [
+        -9051.36,
+        -1913.8912,
+        7137.088
+      ]
+    },
+    {
+      "hint": "Sopor Titanum: Hidden within the outer walls of the inner magma falls on the north side of Chalice of Tears.",
+      "map": 1175,
+      "name": "Mursaat Token 25",
+      "pos": [
+        -22850.208,
+        1115.232,
+        4425.088
+      ]
+    },
+    {
+      "hint": "Shipwrecked Beach: On top of the highest rock spire next to Ivy's Circus Spectacular.",
+      "map": 1175,
+      "name": "Mursaat Token 26",
+      "pos": [
+        -22726.048,
+        -16561.312,
+        4546.688
+      ]
+    },
+    {
+      "hint": "Infernal Cape: On the horns at the top of the volcano.",
+      "map": 1175,
+      "name": "Mursaat Token 27",
+      "pos": [
+        -7054.208,
+        -17064.384,
+        7381.184
+      ]
+    },
+    {
+      "hint": "Shipwrecked Beach: Somewhere in someone's messy hut within Ivy's Circus Spectacular.",
+      "map": 1175,
+      "name": "Mursaat Token 28",
+      "pos": [
+        -20371.648,
+        -18227.392,
+        158.48544
+      ]
+    },
+    {
+      "hint": "Sopor Titanum: Within the terrifying walls of the eastern side of the inner chamber.",
+      "map": 1175,
+      "name": "Mursaat Token 29",
+      "pos": [
+        -17601.696,
+        -2861.424,
+        7077.6
+      ]
+    },
+    {
+      "hint": "Skritt Anchorage: Within the walls of Rock Face Scratch.",
+      "map": 1175,
+      "name": "Mursaat Token 30",
+      "pos": [
+        22514.144,
+        -12930.944,
+        641.5136
+      ]
+    },
+    {
+      "hint": "Sopor Titanum: Drop down the southern part toward Titan's Perch.",
+      "map": 1175,
+      "name": "Mursaat Token 31",
+      "pos": [
+        -20979.296,
+        -7266.304,
+        6986.176
+      ]
+    },
+    {
+      "hint": "Caliph's Steps: On the third shelf up to the northwest of the Sealed Entrance.",
+      "map": 1175,
+      "name": "Mursaat Token 32",
+      "pos": [
+        -27955.488,
+        630.1568,
+        3518.08
+      ]
+    },
+    {
+      "hint": "Caliph's Steps: On an upper tier of a large room to the northeast of the Sealed Entrance.",
+      "map": 1175,
+      "name": "Mursaat Token 33",
+      "pos": [
+        -23743.296,
+        -18.631584,
+        2957.3888
+      ]
+    },
+    {
+      "hint": "Caliph's Steps: Look within some orifices on the Twin Skulls.",
+      "map": 1175,
+      "name": "Mursaat Token 34",
+      "pos": [
+        -30828.896,
+        4266.464,
+        5112.768
+      ]
+    },
+    {
+      "hint": "Burning Grotto: Under another rock shelf within the southeastern waters under the Furnace Chamber.",
+      "map": 1175,
+      "name": "Mursaat Token 35",
+      "pos": [
+        14877.6,
+        -38748.8,
+        -146.51136
+      ]
+    },
+    {
+      "hint": "Burning Grotto: Hidden within the upper rock tier of Furnace Chamber on the eastern side.",
+      "map": 1175,
+      "name": "Mursaat Token 36",
+      "pos": [
+        13466.272,
+        -32720.64,
+        3729.6
+      ]
+    },
+    {
+      "hint": "Burning Grotto: Hidden within the outer rock walls of the Furnace Chamber to the northwest of the magma pool.",
+      "map": 1175,
+      "name": "Mursaat Token 37",
+      "pos": [
+        9780.128,
+        -29657.536,
+        3400.32
+      ]
+    },
+    {
+      "hint": "Caliph's Steps: Look within the rocks between the two Twin Skulls.",
+      "map": 1175,
+      "name": "Mursaat Token 38",
+      "pos": [
+        -34603.84,
+        3308.512,
+        1497.5552
+      ]
+    },
+    {
+      "hint": "Bleeding Pulpit: Between the rocks where Destruction's Maw and Pedestal of Flames meet on the northern side.",
+      "map": 1175,
+      "name": "Mursaat Token 39",
+      "pos": [
+        -6780.992,
+        -13482.688,
+        1858.6208
+      ]
+    },
+    {
+      "hint": "Ashen Skerries: Look among the karka eggs in the Karka Hatchery.",
+      "map": 1175,
+      "name": "Mursaat Token 40",
+      "pos": [
+        32063.04,
+        7478.816,
+        180.84512
+      ]
+    }
+  ]
+}

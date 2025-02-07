@@ -1,0 +1,2065 @@
+{
+  "name": "Zephyrite Lost and Found",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 15,
+      "name": "Queensdale Basket #1",
+      "pos": [
+        -3400.0,
+        16729.92,
+        17.28
+      ]
+    },
+    {
+      "hint": null,
+      "map": 15,
+      "name": "Queensdale Basket #2",
+      "pos": [
+        21248.64,
+        24596.16,
+        40.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 15,
+      "name": "Queensdale Basket #3",
+      "pos": [
+        2505.92,
+        -8686.72,
+        1291.2
+      ]
+    },
+    {
+      "hint": null,
+      "map": 15,
+      "name": "Queensdale Basket #4",
+      "pos": [
+        -6625.6,
+        -19732.48,
+        1106.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 15,
+      "name": "Queensdale Basket #5",
+      "pos": [
+        25141.12,
+        -19883.52,
+        1448.32
+      ]
+    },
+    {
+      "hint": null,
+      "map": 15,
+      "name": "Queensdale Basket #6",
+      "pos": [
+        34455.04,
+        -17198.4,
+        3246.72
+      ]
+    },
+    {
+      "hint": null,
+      "map": 15,
+      "name": "Queensdale Basket #7",
+      "pos": [
+        39218.56,
+        -5338.88,
+        2997.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 15,
+      "name": "Queensdale Basket #8",
+      "pos": [
+        31462.72,
+        925.12,
+        1903.36
+      ]
+    },
+    {
+      "hint": null,
+      "map": 15,
+      "name": "Queensdale Basket #9",
+      "pos": [
+        -36155.52,
+        -9229.76,
+        1989.12
+      ]
+    },
+    {
+      "hint": null,
+      "map": 23,
+      "name": "Kessex Hills Basket #1",
+      "pos": [
+        -42431.68,
+        7266.56,
+        1227.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 23,
+      "name": "Kessex Hills Basket #2",
+      "pos": [
+        -36940.8,
+        -2350.72,
+        1224.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 23,
+      "name": "Kessex Hills Basket #3",
+      "pos": [
+        -30611.84,
+        -13809.92,
+        1602.56
+      ]
+    },
+    {
+      "hint": null,
+      "map": 23,
+      "name": "Kessex Hills Basket #4",
+      "pos": [
+        -23039.04,
+        -15441.6,
+        1432.32
+      ]
+    },
+    {
+      "hint": null,
+      "map": 23,
+      "name": "Kessex Hills Basket #5",
+      "pos": [
+        -39748.8,
+        -9966.72,
+        2730.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 23,
+      "name": "Kessex Hills Basket #6",
+      "pos": [
+        -20510.08,
+        8999.04,
+        258.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 34,
+      "name": "Caledon Forest Basket #1",
+      "pos": [
+        16994.88,
+        32737.28,
+        91.2
+      ]
+    },
+    {
+      "hint": null,
+      "map": 34,
+      "name": "Caledon Forest Basket #2",
+      "pos": [
+        6075.84,
+        39993.28,
+        206.4
+      ]
+    },
+    {
+      "hint": null,
+      "map": 34,
+      "name": "Caledon Forest Basket #3",
+      "pos": [
+        -12723.84,
+        37831.68,
+        314.88
+      ]
+    },
+    {
+      "hint": null,
+      "map": 34,
+      "name": "Caledon Forest Basket #4",
+      "pos": [
+        18379.52,
+        41987.84,
+        -1.92
+      ]
+    },
+    {
+      "hint": null,
+      "map": 34,
+      "name": "Caledon Forest Basket #5",
+      "pos": [
+        -16271.68,
+        21359.68,
+        24.96
+      ]
+    },
+    {
+      "hint": null,
+      "map": 34,
+      "name": "Caledon Forest Basket #6",
+      "pos": [
+        -13871.36,
+        3113.92,
+        1052.8
+      ]
+    },
+    {
+      "hint": null,
+      "map": 34,
+      "name": "Caledon Forest Basket #7",
+      "pos": [
+        -15536.0,
+        -3487.04,
+        0.96
+      ]
+    },
+    {
+      "hint": null,
+      "map": 34,
+      "name": "Caledon Forest Basket #8",
+      "pos": [
+        -14276.8,
+        -14421.12,
+        814.4
+      ]
+    },
+    {
+      "hint": null,
+      "map": 34,
+      "name": "Caledon Forest Basket #9",
+      "pos": [
+        -13934.72,
+        -23929.92,
+        838.72
+      ]
+    },
+    {
+      "hint": null,
+      "map": 34,
+      "name": "Caledon Forest Basket #10",
+      "pos": [
+        -14127.36,
+        -30066.88,
+        1818.56
+      ]
+    },
+    {
+      "hint": null,
+      "map": 54,
+      "name": "Brisban Wildlands Basket #1",
+      "pos": [
+        34894.4,
+        28703.36,
+        3208.96
+      ]
+    },
+    {
+      "hint": null,
+      "map": 54,
+      "name": "Brisban Wildlands Basket #2",
+      "pos": [
+        23696.96,
+        26209.92,
+        4390.4
+      ]
+    },
+    {
+      "hint": null,
+      "map": 54,
+      "name": "Brisban Wildlands Basket #3",
+      "pos": [
+        12486.4,
+        27164.16,
+        4098.56
+      ]
+    },
+    {
+      "hint": null,
+      "map": 54,
+      "name": "Brisban Wildlands Basket #4",
+      "pos": [
+        4257.28,
+        23068.16,
+        2629.12
+      ]
+    },
+    {
+      "hint": null,
+      "map": 54,
+      "name": "Brisban Wildlands Basket #5",
+      "pos": [
+        -5935.36,
+        20085.12,
+        2827.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 54,
+      "name": "Brisban Wildlands Basket #6",
+      "pos": [
+        -14545.92,
+        25336.0,
+        2612.8
+      ]
+    },
+    {
+      "hint": null,
+      "map": 54,
+      "name": "Brisban Wildlands Basket #7",
+      "pos": [
+        -27533.12,
+        17552.32,
+        2616.96
+      ]
+    },
+    {
+      "hint": null,
+      "map": 54,
+      "name": "Brisban Wildlands Basket #8",
+      "pos": [
+        33056.96,
+        11372.48,
+        3162.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 54,
+      "name": "Brisban Wildlands Basket #9",
+      "pos": [
+        30534.72,
+        -333.76,
+        2862.4
+      ]
+    },
+    {
+      "hint": null,
+      "map": 54,
+      "name": "Brisban Wildlands Basket #10",
+      "pos": [
+        -18766.72,
+        -8303.04,
+        1013.12
+      ]
+    },
+    {
+      "hint": null,
+      "map": 35,
+      "name": "Metrica Province Basket #1",
+      "pos": [
+        -4932.48,
+        30218.88,
+        673.92
+      ]
+    },
+    {
+      "hint": null,
+      "map": 35,
+      "name": "Metrica Province Basket #2",
+      "pos": [
+        -16785.6,
+        19097.28,
+        978.88
+      ]
+    },
+    {
+      "hint": null,
+      "map": 35,
+      "name": "Metrica Province Basket #3",
+      "pos": [
+        -18928.96,
+        3525.12,
+        126.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 35,
+      "name": "Metrica Province Basket #4",
+      "pos": [
+        -10915.2,
+        -17624.0,
+        640.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 35,
+      "name": "Metrica Province Basket #5",
+      "pos": [
+        -10841.92,
+        7139.52,
+        100.16
+      ]
+    },
+    {
+      "hint": null,
+      "map": 35,
+      "name": "Metrica Province Basket #6",
+      "pos": [
+        2434.88,
+        33047.04,
+        21.44
+      ]
+    },
+    {
+      "hint": null,
+      "map": 35,
+      "name": "Metrica Province Basket #7",
+      "pos": [
+        10179.84,
+        32936.96,
+        115.84
+      ]
+    },
+    {
+      "hint": null,
+      "map": 35,
+      "name": "Metrica Province Basket #8",
+      "pos": [
+        17994.88,
+        29335.68,
+        1838.72
+      ]
+    },
+    {
+      "hint": null,
+      "map": 35,
+      "name": "Metrica Province Basket #9",
+      "pos": [
+        15379.84,
+        12892.48,
+        1255.68
+      ]
+    },
+    {
+      "hint": null,
+      "map": 24,
+      "name": "Gendarran Fields Basket #1",
+      "pos": [
+        -39224.32,
+        4810.88,
+        348.16
+      ]
+    },
+    {
+      "hint": null,
+      "map": 24,
+      "name": "Gendarran Fields Basket #2",
+      "pos": [
+        -41010.56,
+        -6433.6,
+        1078.4
+      ]
+    },
+    {
+      "hint": null,
+      "map": 24,
+      "name": "Gendarran Fields Basket #3",
+      "pos": [
+        -34490.24,
+        21230.08,
+        1944.32
+      ]
+    },
+    {
+      "hint": null,
+      "map": 24,
+      "name": "Gendarran Fields Basket #4",
+      "pos": [
+        -21043.52,
+        22139.52,
+        2055.68
+      ]
+    },
+    {
+      "hint": null,
+      "map": 24,
+      "name": "Gendarran Fields Basket #5",
+      "pos": [
+        -4720.96,
+        17951.68,
+        217.28
+      ]
+    },
+    {
+      "hint": null,
+      "map": 24,
+      "name": "Gendarran Fields Basket #6",
+      "pos": [
+        -24145.28,
+        -14764.8,
+        88.96
+      ]
+    },
+    {
+      "hint": null,
+      "map": 24,
+      "name": "Gendarran Fields Basket #7",
+      "pos": [
+        -3852.48,
+        -21383.04,
+        1065.92
+      ]
+    },
+    {
+      "hint": null,
+      "map": 24,
+      "name": "Gendarran Fields Basket #8",
+      "pos": [
+        5152.96,
+        -20007.36,
+        168.64
+      ]
+    },
+    {
+      "hint": null,
+      "map": 24,
+      "name": "Gendarran Fields Basket #9",
+      "pos": [
+        -12214.72,
+        -13602.56,
+        388.48
+      ]
+    },
+    {
+      "hint": null,
+      "map": 17,
+      "name": "Harathi Hinterlands Basket #1",
+      "pos": [
+        -15593.28,
+        -20740.8,
+        2560.96
+      ]
+    },
+    {
+      "hint": null,
+      "map": 17,
+      "name": "Harathi Hinterlands Basket #2",
+      "pos": [
+        -20312.32,
+        -10496.32,
+        2359.04
+      ]
+    },
+    {
+      "hint": null,
+      "map": 17,
+      "name": "Harathi Hinterlands Basket #3",
+      "pos": [
+        -30682.56,
+        -9842.88,
+        2936.32
+      ]
+    },
+    {
+      "hint": null,
+      "map": 17,
+      "name": "Harathi Hinterlands Basket #4",
+      "pos": [
+        5447.04,
+        -30339.52,
+        760.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 17,
+      "name": "Harathi Hinterlands Basket #5",
+      "pos": [
+        3952.96,
+        5114.88,
+        1386.88
+      ]
+    },
+    {
+      "hint": null,
+      "map": 17,
+      "name": "Harathi Hinterlands Basket #6",
+      "pos": [
+        -8761.92,
+        24158.4,
+        2156.16
+      ]
+    },
+    {
+      "hint": null,
+      "map": 17,
+      "name": "Harathi Hinterlands Basket #7",
+      "pos": [
+        -23435.84,
+        27161.6,
+        1771.84
+      ]
+    },
+    {
+      "hint": null,
+      "map": 17,
+      "name": "Harathi Hinterlands Basket #8",
+      "pos": [
+        -30533.12,
+        20264.32,
+        796.48
+      ]
+    },
+    {
+      "hint": null,
+      "map": 17,
+      "name": "Harathi Hinterlands Basket #9",
+      "pos": [
+        -29279.36,
+        5778.24,
+        1662.4
+      ]
+    },
+    {
+      "hint": null,
+      "map": 17,
+      "name": "Harathi Hinterlands Basket #10",
+      "pos": [
+        19231.04,
+        10872.32,
+        3456.32
+      ]
+    },
+    {
+      "hint": null,
+      "map": 31,
+      "name": "Snowden Drifts Basket #1",
+      "pos": [
+        -32296.96,
+        1216.32,
+        2094.72
+      ]
+    },
+    {
+      "hint": null,
+      "map": 31,
+      "name": "Snowden Drifts Basket #2",
+      "pos": [
+        -23600.0,
+        -9401.28,
+        796.8
+      ]
+    },
+    {
+      "hint": null,
+      "map": 31,
+      "name": "Snowden Drifts Basket #3",
+      "pos": [
+        -27271.04,
+        4871.36,
+        2970.88
+      ]
+    },
+    {
+      "hint": null,
+      "map": 31,
+      "name": "Snowden Drifts Basket #4",
+      "pos": [
+        -28219.2,
+        10896.96,
+        2248.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 31,
+      "name": "Snowden Drifts Basket #5",
+      "pos": [
+        -19865.92,
+        9513.92,
+        645.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 31,
+      "name": "Snowden Drifts Basket #6",
+      "pos": [
+        -6395.52,
+        13315.52,
+        670.72
+      ]
+    },
+    {
+      "hint": null,
+      "map": 31,
+      "name": "Snowden Drifts Basket #7",
+      "pos": [
+        4963.2,
+        -3918.08,
+        2158.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 31,
+      "name": "Snowden Drifts Basket #8",
+      "pos": [
+        -2778.24,
+        -6166.4,
+        2151.36
+      ]
+    },
+    {
+      "hint": null,
+      "map": 31,
+      "name": "Snowden Drifts Basket #9",
+      "pos": [
+        -9772.16,
+        -14509.76,
+        172.48
+      ]
+    },
+    {
+      "hint": null,
+      "map": 31,
+      "name": "Snowden Drifts Basket #10",
+      "pos": [
+        2767.04,
+        -18833.6,
+        619.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 30,
+      "name": "Frostgorge Sound Basket #1",
+      "pos": [
+        -6153.28,
+        -15332.48,
+        46.72
+      ]
+    },
+    {
+      "hint": null,
+      "map": 30,
+      "name": "Frostgorge Sound Basket #2",
+      "pos": [
+        2960.96,
+        -21978.56,
+        2634.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 30,
+      "name": "Frostgorge Sound Basket #3",
+      "pos": [
+        8293.44,
+        -30504.32,
+        3149.44
+      ]
+    },
+    {
+      "hint": null,
+      "map": 30,
+      "name": "Frostgorge Sound Basket #4",
+      "pos": [
+        79.36,
+        -7313.6,
+        937.28
+      ]
+    },
+    {
+      "hint": null,
+      "map": 30,
+      "name": "Frostgorge Sound Basket #5",
+      "pos": [
+        2673.28,
+        1038.08,
+        60.8
+      ]
+    },
+    {
+      "hint": null,
+      "map": 30,
+      "name": "Frostgorge Sound Basket #6",
+      "pos": [
+        -18004.16,
+        -1553.6,
+        162.56
+      ]
+    },
+    {
+      "hint": null,
+      "map": 30,
+      "name": "Frostgorge Sound Basket #7",
+      "pos": [
+        -24898.24,
+        5993.28,
+        179.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 30,
+      "name": "Frostgorge Sound Basket #8",
+      "pos": [
+        -27450.56,
+        23176.0,
+        89.28
+      ]
+    },
+    {
+      "hint": null,
+      "map": 30,
+      "name": "Frostgorge Sound Basket #9",
+      "pos": [
+        -14806.72,
+        31355.84,
+        75.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 30,
+      "name": "Frostgorge Sound Basket #10",
+      "pos": [
+        13660.8,
+        34489.92,
+        1486.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 22,
+      "name": "Fireheart Rise Basket #1",
+      "pos": [
+        -25453.76,
+        4528.96,
+        3427.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 22,
+      "name": "Fireheart Rise Basket #2",
+      "pos": [
+        -20165.12,
+        27374.08,
+        2150.72
+      ]
+    },
+    {
+      "hint": null,
+      "map": 22,
+      "name": "Fireheart Rise Basket #3",
+      "pos": [
+        -7874.88,
+        19940.8,
+        2554.56
+      ]
+    },
+    {
+      "hint": null,
+      "map": 22,
+      "name": "Fireheart Rise Basket #4",
+      "pos": [
+        1406.08,
+        26230.08,
+        973.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 22,
+      "name": "Fireheart Rise Basket #5",
+      "pos": [
+        16215.68,
+        23785.6,
+        2272.96
+      ]
+    },
+    {
+      "hint": null,
+      "map": 22,
+      "name": "Fireheart Rise Basket #6",
+      "pos": [
+        32053.12,
+        21970.56,
+        99.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 22,
+      "name": "Fireheart Rise Basket #7",
+      "pos": [
+        35436.8,
+        7040.64,
+        1208.96
+      ]
+    },
+    {
+      "hint": null,
+      "map": 22,
+      "name": "Fireheart Rise Basket #8",
+      "pos": [
+        28091.2,
+        -5118.08,
+        475.84
+      ]
+    },
+    {
+      "hint": null,
+      "map": 22,
+      "name": "Fireheart Rise Basket #9",
+      "pos": [
+        -29864.64,
+        -7660.48,
+        3925.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 25,
+      "name": "Iron Marches Basket #1",
+      "pos": [
+        -15721.92,
+        22139.52,
+        981.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 25,
+      "name": "Iron Marches Basket #2",
+      "pos": [
+        -17959.36,
+        35678.72,
+        1118.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 25,
+      "name": "Iron Marches Basket #3",
+      "pos": [
+        -8427.84,
+        44864.0,
+        8.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 25,
+      "name": "Iron Marches Basket #4",
+      "pos": [
+        6135.68,
+        33972.48,
+        1340.16
+      ]
+    },
+    {
+      "hint": null,
+      "map": 25,
+      "name": "Iron Marches Basket #5",
+      "pos": [
+        19125.76,
+        31257.92,
+        628.16
+      ]
+    },
+    {
+      "hint": null,
+      "map": 25,
+      "name": "Iron Marches Basket #6",
+      "pos": [
+        20702.4,
+        9062.72,
+        400.64
+      ]
+    },
+    {
+      "hint": null,
+      "map": 25,
+      "name": "Iron Marches Basket #7",
+      "pos": [
+        19230.4,
+        -16611.84,
+        62.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 25,
+      "name": "Iron Marches Basket #8",
+      "pos": [
+        -14505.28,
+        -15488.0,
+        857.28
+      ]
+    },
+    {
+      "hint": null,
+      "map": 25,
+      "name": "Iron Marches Basket #9",
+      "pos": [
+        -1409.28,
+        -29547.2,
+        1820.48
+      ]
+    },
+    {
+      "hint": null,
+      "map": 25,
+      "name": "Iron Marches Basket #10",
+      "pos": [
+        -21156.8,
+        -42328.0,
+        3006.72
+      ]
+    },
+    {
+      "hint": null,
+      "map": 19,
+      "name": "Plains of Ashford Basket #1",
+      "pos": [
+        20660.48,
+        20247.68,
+        2978.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 19,
+      "name": "Plains of Ashford Basket #2",
+      "pos": [
+        41596.16,
+        7766.4,
+        1077.12
+      ]
+    },
+    {
+      "hint": null,
+      "map": 19,
+      "name": "Plains of Ashford Basket #3",
+      "pos": [
+        37994.88,
+        -17608.64,
+        -0.96
+      ]
+    },
+    {
+      "hint": null,
+      "map": 19,
+      "name": "Plains of Ashford Basket #4",
+      "pos": [
+        21183.36,
+        -17546.88,
+        731.84
+      ]
+    },
+    {
+      "hint": null,
+      "map": 19,
+      "name": "Plains of Ashford Basket #5",
+      "pos": [
+        6930.24,
+        20739.84,
+        3106.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 19,
+      "name": "Plains of Ashford Basket #6",
+      "pos": [
+        1410.56,
+        18304.32,
+        1585.28
+      ]
+    },
+    {
+      "hint": null,
+      "map": 19,
+      "name": "Plains of Ashford Basket #7",
+      "pos": [
+        -7151.36,
+        12163.2,
+        2064.96
+      ]
+    },
+    {
+      "hint": null,
+      "map": 19,
+      "name": "Plains of Ashford Basket #8",
+      "pos": [
+        -1608.32,
+        -17743.04,
+        1519.36
+      ]
+    },
+    {
+      "hint": null,
+      "map": 19,
+      "name": "Plains of Ashford Basket #9",
+      "pos": [
+        -25759.04,
+        7818.24,
+        1445.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 20,
+      "name": "Blazeridge Steppes Basket #1",
+      "pos": [
+        -19192.0,
+        -7498.56,
+        2392.64
+      ]
+    },
+    {
+      "hint": null,
+      "map": 20,
+      "name": "Blazeridge Steppes Basket #2",
+      "pos": [
+        -18380.48,
+        6460.48,
+        744.64
+      ]
+    },
+    {
+      "hint": null,
+      "map": 20,
+      "name": "Blazeridge Steppes Basket #3",
+      "pos": [
+        -19638.72,
+        24021.76,
+        1888.96
+      ]
+    },
+    {
+      "hint": null,
+      "map": 20,
+      "name": "Blazeridge Steppes Basket #4",
+      "pos": [
+        -9244.8,
+        24064.96,
+        1057.92
+      ]
+    },
+    {
+      "hint": null,
+      "map": 20,
+      "name": "Blazeridge Steppes Basket #5",
+      "pos": [
+        9248.64,
+        23051.84,
+        1364.48
+      ]
+    },
+    {
+      "hint": null,
+      "map": 20,
+      "name": "Blazeridge Steppes Basket #6",
+      "pos": [
+        -5803.52,
+        33649.28,
+        80.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 20,
+      "name": "Blazeridge Steppes Basket #7",
+      "pos": [
+        3488.0,
+        33191.68,
+        1582.4
+      ]
+    },
+    {
+      "hint": null,
+      "map": 20,
+      "name": "Blazeridge Steppes Basket #8",
+      "pos": [
+        -17499.2,
+        -34399.68,
+        632.64
+      ]
+    },
+    {
+      "hint": null,
+      "map": 20,
+      "name": "Blazeridge Steppes Basket #9",
+      "pos": [
+        -21117.76,
+        -42431.68,
+        761.28
+      ]
+    },
+    {
+      "hint": null,
+      "map": 20,
+      "name": "Blazeridge Steppes Basket #10",
+      "pos": [
+        8256.96,
+        -45931.52,
+        0.32
+      ]
+    },
+    {
+      "hint": null,
+      "map": 21,
+      "name": "Fields of Ruin Basket #1",
+      "pos": [
+        7015.04,
+        26902.72,
+        797.12
+      ]
+    },
+    {
+      "hint": null,
+      "map": 21,
+      "name": "Fields of Ruin Basket #2",
+      "pos": [
+        544.64,
+        30767.36,
+        1174.4
+      ]
+    },
+    {
+      "hint": null,
+      "map": 21,
+      "name": "Fields of Ruin Basket #3",
+      "pos": [
+        30204.8,
+        32702.4,
+        1363.84
+      ]
+    },
+    {
+      "hint": null,
+      "map": 21,
+      "name": "Fields of Ruin Basket #4",
+      "pos": [
+        26880.64,
+        15280.32,
+        1362.88
+      ]
+    },
+    {
+      "hint": null,
+      "map": 21,
+      "name": "Fields of Ruin Basket #5",
+      "pos": [
+        30675.2,
+        3904.96,
+        2066.88
+      ]
+    },
+    {
+      "hint": null,
+      "map": 21,
+      "name": "Fields of Ruin Basket #6",
+      "pos": [
+        17588.16,
+        -5536.0,
+        1688.96
+      ]
+    },
+    {
+      "hint": null,
+      "map": 21,
+      "name": "Fields of Ruin Basket #7",
+      "pos": [
+        7125.12,
+        -8918.72,
+        1626.56
+      ]
+    },
+    {
+      "hint": null,
+      "map": 21,
+      "name": "Fields of Ruin Basket #8",
+      "pos": [
+        20816.0,
+        -33769.6,
+        1540.48
+      ]
+    },
+    {
+      "hint": null,
+      "map": 21,
+      "name": "Fields of Ruin Basket #9",
+      "pos": [
+        30619.52,
+        -25778.56,
+        2064.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 28,
+      "name": "Wayfarer Foothills Basket #1",
+      "pos": [
+        11423.04,
+        -40120.32,
+        1112.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 28,
+      "name": "Wayfarer Foothills Basket #2",
+      "pos": [
+        -2019.84,
+        -46670.72,
+        1716.48
+      ]
+    },
+    {
+      "hint": null,
+      "map": 28,
+      "name": "Wayfarer Foothills Basket #3",
+      "pos": [
+        -14136.64,
+        -7154.56,
+        4742.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 28,
+      "name": "Wayfarer Foothills Basket #4",
+      "pos": [
+        -3816.96,
+        142.72,
+        1731.2
+      ]
+    },
+    {
+      "hint": null,
+      "map": 28,
+      "name": "Wayfarer Foothills Basket #5",
+      "pos": [
+        -2171.84,
+        13530.88,
+        4450.88
+      ]
+    },
+    {
+      "hint": null,
+      "map": 28,
+      "name": "Wayfarer Foothills Basket #6",
+      "pos": [
+        -10394.88,
+        23857.6,
+        3945.28
+      ]
+    },
+    {
+      "hint": null,
+      "map": 28,
+      "name": "Wayfarer Foothills Basket #7",
+      "pos": [
+        11183.68,
+        26261.12,
+        2770.88
+      ]
+    },
+    {
+      "hint": null,
+      "map": 28,
+      "name": "Wayfarer Foothills Basket #8",
+      "pos": [
+        -10657.28,
+        32126.08,
+        5096.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 28,
+      "name": "Wayfarer Foothills Basket #9",
+      "pos": [
+        -10940.8,
+        45182.4,
+        5099.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 28,
+      "name": "Wayfarer Foothills Basket #10",
+      "pos": [
+        766.72,
+        -15963.52,
+        6614.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 27,
+      "name": "Lornar's Pass Basket #1",
+      "pos": [
+        13392.64,
+        42160.64,
+        6701.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 27,
+      "name": "Lornar's Pass Basket #2",
+      "pos": [
+        14747.84,
+        25943.04,
+        6583.68
+      ]
+    },
+    {
+      "hint": null,
+      "map": 27,
+      "name": "Lornar's Pass Basket #3",
+      "pos": [
+        9892.48,
+        22515.2,
+        4613.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 27,
+      "name": "Lornar's Pass Basket #4",
+      "pos": [
+        9610.88,
+        9645.44,
+        4630.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 27,
+      "name": "Lornar's Pass Basket #5",
+      "pos": [
+        -12685.76,
+        -1825.28,
+        1581.44
+      ]
+    },
+    {
+      "hint": null,
+      "map": 27,
+      "name": "Lornar's Pass Basket #6",
+      "pos": [
+        -13241.6,
+        -13335.36,
+        1434.88
+      ]
+    },
+    {
+      "hint": null,
+      "map": 27,
+      "name": "Lornar's Pass Basket #7",
+      "pos": [
+        1387.2,
+        -22994.24,
+        3349.12
+      ]
+    },
+    {
+      "hint": null,
+      "map": 27,
+      "name": "Lornar's Pass Basket #8",
+      "pos": [
+        -10958.08,
+        -22427.84,
+        1137.6
+      ]
+    },
+    {
+      "hint": null,
+      "map": 27,
+      "name": "Lornar's Pass Basket #9",
+      "pos": [
+        -2347.84,
+        -32322.88,
+        793.28
+      ]
+    },
+    {
+      "hint": null,
+      "map": 27,
+      "name": "Lornar's Pass Basket #10",
+      "pos": [
+        -13743.36,
+        -36613.12,
+        80.32
+      ]
+    },
+    {
+      "hint": null,
+      "map": 26,
+      "name": "Dredgehaunt Cliffs Basket #1",
+      "pos": [
+        12415.36,
+        24882.88,
+        2194.56
+      ]
+    },
+    {
+      "hint": null,
+      "map": 26,
+      "name": "Dredgehaunt Cliffs Basket #2",
+      "pos": [
+        -18889.28,
+        25865.6,
+        108.48
+      ]
+    },
+    {
+      "hint": null,
+      "map": 26,
+      "name": "Dredgehaunt Cliffs Basket #3",
+      "pos": [
+        12941.76,
+        10793.6,
+        3221.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 26,
+      "name": "Dredgehaunt Cliffs Basket #4",
+      "pos": [
+        -184.64,
+        9843.52,
+        5541.12
+      ]
+    },
+    {
+      "hint": null,
+      "map": 26,
+      "name": "Dredgehaunt Cliffs Basket #5",
+      "pos": [
+        -8407.36,
+        6193.6,
+        4509.12
+      ]
+    },
+    {
+      "hint": null,
+      "map": 26,
+      "name": "Dredgehaunt Cliffs Basket #6",
+      "pos": [
+        -3544.32,
+        -18752.64,
+        3304.32
+      ]
+    },
+    {
+      "hint": null,
+      "map": 26,
+      "name": "Dredgehaunt Cliffs Basket #7",
+      "pos": [
+        3353.6,
+        -21029.12,
+        2483.2
+      ]
+    },
+    {
+      "hint": null,
+      "map": 26,
+      "name": "Dredgehaunt Cliffs Basket #8",
+      "pos": [
+        -16944.64,
+        -21738.24,
+        3395.84
+      ]
+    },
+    {
+      "hint": null,
+      "map": 26,
+      "name": "Dredgehaunt Cliffs Basket #9",
+      "pos": [
+        22935.68,
+        -27264.0,
+        2182.72
+      ]
+    },
+    {
+      "hint": null,
+      "map": 29,
+      "name": "Timberline Falls Basket #1",
+      "pos": [
+        9882.56,
+        26814.72,
+        2131.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 29,
+      "name": "Timberline Falls Basket #2",
+      "pos": [
+        6792.32,
+        17296.32,
+        2012.48
+      ]
+    },
+    {
+      "hint": null,
+      "map": 29,
+      "name": "Timberline Falls Basket #3",
+      "pos": [
+        3995.2,
+        8062.72,
+        2818.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 29,
+      "name": "Timberline Falls Basket #4",
+      "pos": [
+        10549.12,
+        6507.84,
+        34.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 29,
+      "name": "Timberline Falls Basket #5",
+      "pos": [
+        18328.64,
+        4168.96,
+        250.56
+      ]
+    },
+    {
+      "hint": null,
+      "map": 29,
+      "name": "Timberline Falls Basket #6",
+      "pos": [
+        10402.56,
+        -20415.04,
+        2820.48
+      ]
+    },
+    {
+      "hint": null,
+      "map": 29,
+      "name": "Timberline Falls Basket #7",
+      "pos": [
+        -1459.52,
+        -26065.92,
+        1009.6
+      ]
+    },
+    {
+      "hint": null,
+      "map": 29,
+      "name": "Timberline Falls Basket #8",
+      "pos": [
+        -5665.28,
+        -23721.6,
+        1500.8
+      ]
+    },
+    {
+      "hint": null,
+      "map": 29,
+      "name": "Timberline Falls Basket #9",
+      "pos": [
+        -21626.88,
+        -28025.6,
+        1.92
+      ]
+    },
+    {
+      "hint": null,
+      "map": 73,
+      "name": "Bloodtide Coast Basket #1",
+      "pos": [
+        -5200.32,
+        33616.32,
+        51.84
+      ]
+    },
+    {
+      "hint": null,
+      "map": 73,
+      "name": "Bloodtide Coast Basket #2",
+      "pos": [
+        -1996.16,
+        16857.6,
+        15.04
+      ]
+    },
+    {
+      "hint": null,
+      "map": 73,
+      "name": "Bloodtide Coast Basket #3",
+      "pos": [
+        -13307.84,
+        15970.88,
+        1333.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 73,
+      "name": "Bloodtide Coast Basket #4",
+      "pos": [
+        -11054.4,
+        5676.8,
+        452.48
+      ]
+    },
+    {
+      "hint": null,
+      "map": 73,
+      "name": "Bloodtide Coast Basket #5",
+      "pos": [
+        23378.88,
+        14684.8,
+        0.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 73,
+      "name": "Bloodtide Coast Basket #6",
+      "pos": [
+        24584.96,
+        3564.16,
+        2069.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 73,
+      "name": "Bloodtide Coast Basket #7",
+      "pos": [
+        17240.96,
+        -18996.8,
+        941.44
+      ]
+    },
+    {
+      "hint": null,
+      "map": 73,
+      "name": "Bloodtide Coast Basket #8",
+      "pos": [
+        -15939.2,
+        -27636.16,
+        38.72
+      ]
+    },
+    {
+      "hint": null,
+      "map": 73,
+      "name": "Bloodtide Coast Basket #9",
+      "pos": [
+        17258.88,
+        -31312.0,
+        71.68
+      ]
+    },
+    {
+      "hint": null,
+      "map": 53,
+      "name": "Sparkfly Fen Basket #1",
+      "pos": [
+        21335.04,
+        25742.08,
+        1275.84
+      ]
+    },
+    {
+      "hint": null,
+      "map": 53,
+      "name": "Sparkfly Fen Basket #2",
+      "pos": [
+        -14220.16,
+        11504.96,
+        1018.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 53,
+      "name": "Sparkfly Fen Basket #3",
+      "pos": [
+        -16892.48,
+        3393.28,
+        18.88
+      ]
+    },
+    {
+      "hint": null,
+      "map": 53,
+      "name": "Sparkfly Fen Basket #4",
+      "pos": [
+        -2314.88,
+        -6170.88,
+        703.04
+      ]
+    },
+    {
+      "hint": null,
+      "map": 53,
+      "name": "Sparkfly Fen Basket #5",
+      "pos": [
+        24115.52,
+        5547.52,
+        3234.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 53,
+      "name": "Sparkfly Fen Basket #6",
+      "pos": [
+        17126.72,
+        -12576.64,
+        388.16
+      ]
+    },
+    {
+      "hint": null,
+      "map": 53,
+      "name": "Sparkfly Fen Basket #7",
+      "pos": [
+        18571.84,
+        -24025.28,
+        -5.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 53,
+      "name": "Sparkfly Fen Basket #8",
+      "pos": [
+        2623.36,
+        -23462.72,
+        8.96
+      ]
+    },
+    {
+      "hint": null,
+      "map": 53,
+      "name": "Sparkfly Fen Basket #9",
+      "pos": [
+        -1744.96,
+        -13221.44,
+        194.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 39,
+      "name": "Mount Maelstrom Basket #1",
+      "pos": [
+        -732.48,
+        25029.76,
+        645.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 39,
+      "name": "Mount Maelstrom Basket #2",
+      "pos": [
+        19926.08,
+        12833.28,
+        782.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 39,
+      "name": "Mount Maelstrom Basket #3",
+      "pos": [
+        34500.16,
+        3702.4,
+        361.6
+      ]
+    },
+    {
+      "hint": null,
+      "map": 39,
+      "name": "Mount Maelstrom Basket #4",
+      "pos": [
+        41386.88,
+        -4203.2,
+        19.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 39,
+      "name": "Mount Maelstrom Basket #5",
+      "pos": [
+        16772.16,
+        -5880.96,
+        11.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 39,
+      "name": "Mount Maelstrom Basket #6",
+      "pos": [
+        12322.88,
+        6441.92,
+        5.12
+      ]
+    },
+    {
+      "hint": null,
+      "map": 39,
+      "name": "Mount Maelstrom Basket #7",
+      "pos": [
+        3274.88,
+        15839.36,
+        1903.68
+      ]
+    },
+    {
+      "hint": null,
+      "map": 39,
+      "name": "Mount Maelstrom Basket #8",
+      "pos": [
+        -18636.48,
+        -23063.36,
+        3648.64
+      ]
+    },
+    {
+      "hint": null,
+      "map": 39,
+      "name": "Mount Maelstrom Basket #9",
+      "pos": [
+        -1806.72,
+        -13977.92,
+        3264.96
+      ]
+    },
+    {
+      "hint": null,
+      "map": 39,
+      "name": "Mount Maelstrom Basket #10",
+      "pos": [
+        2568.32,
+        -22967.04,
+        1622.4
+      ]
+    },
+    {
+      "hint": null,
+      "map": 873,
+      "name": "Southsun Cove Basket #1",
+      "pos": [
+        17642.24,
+        -14449.92,
+        22.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 873,
+      "name": "Southsun Cove Basket #2",
+      "pos": [
+        14533.44,
+        -3681.92,
+        2071.04
+      ]
+    },
+    {
+      "hint": null,
+      "map": 873,
+      "name": "Southsun Cove Basket #3",
+      "pos": [
+        17228.16,
+        -95.68,
+        1984.64
+      ]
+    },
+    {
+      "hint": null,
+      "map": 873,
+      "name": "Southsun Cove Basket #4",
+      "pos": [
+        3575.68,
+        11444.8,
+        27.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 873,
+      "name": "Southsun Cove Basket #5",
+      "pos": [
+        -871.04,
+        -4072.0,
+        1482.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 873,
+      "name": "Southsun Cove Basket #6",
+      "pos": [
+        -10269.44,
+        -6849.6,
+        2046.4
+      ]
+    },
+    {
+      "hint": null,
+      "map": 873,
+      "name": "Southsun Cove Basket #7",
+      "pos": [
+        -20243.52,
+        -13035.2,
+        22.72
+      ]
+    },
+    {
+      "hint": null,
+      "map": 873,
+      "name": "Southsun Cove Basket #8",
+      "pos": [
+        -23424.96,
+        -9940.48,
+        1227.2
+      ]
+    },
+    {
+      "hint": null,
+      "map": 873,
+      "name": "Southsun Cove Basket #9",
+      "pos": [
+        -19135.36,
+        11630.72,
+        1379.84
+      ]
+    },
+    {
+      "hint": null,
+      "map": 873,
+      "name": "Southsun Cove Basket #10",
+      "pos": [
+        27524.16,
+        215.36,
+        22.4
+      ]
+    }
+  ]
+}

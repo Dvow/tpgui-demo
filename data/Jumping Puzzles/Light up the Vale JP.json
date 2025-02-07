@@ -1,0 +1,115 @@
+{
+  "name": "Light up the Vale",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Pick up the torch.",
+      "pos": [
+        506,
+        -11089,
+        12298
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Brazier #1",
+      "pos": [
+        4099,
+        -8102,
+        8976
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Brazier #2",
+      "pos": [
+        4921,
+        -4270,
+        7864
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Brazier #3",
+      "pos": [
+        3519,
+        -1112,
+        5977
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Brazier #4",
+      "pos": [
+        6337,
+        2818,
+        5509
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Brazier #5",
+      "pos": [
+        5744,
+        5912,
+        5343
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Brazier #6",
+      "pos": [
+        3122,
+        7777,
+        3180
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Brazier #7",
+      "pos": [
+        2197,
+        12873,
+        1873
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Brazier #8",
+      "pos": [
+        1626,
+        15636,
+        1930
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Brazier #9",
+      "pos": [
+        5736,
+        18003,
+        328
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Brazier #10",
+      "pos": [
+        9670,
+        21934,
+        101
+      ]
+    }
+  ]
+}

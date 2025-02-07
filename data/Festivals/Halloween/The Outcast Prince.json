@@ -1,0 +1,15 @@
+{
+  "name": "The Outcast Prince",
+  "objectives": [
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Hear out Prince Thorn's thoughts on life in the ever-changing Mad Realm.",
+      "pos": [
+        -6343,
+        4344,
+        10896
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "name": "Cryptid Chase",
+  "objectives": [
+    {
+      "hint": "Talk to Echoes of Night in Harvest Den.",
+      "map": 1550,
+      "name": "Cryptid Chase Unlocked",
+      "pos": [
+        23854,
+        11112,
+        2480
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Unknown Track 01",
+      "pos": [
+        17751,
+        -22047,
+        13269
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Unknown Track 02",
+      "pos": [
+        36032,
+        19043,
+        65
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Unknown Track 03",
+      "pos": [
+        -10332,
+        -12094,
+        8275
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Unknown Track 04",
+      "pos": [
+        26890,
+        2889,
+        13029
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Unknown Track 05",
+      "pos": [
+        -21038,
+        16313,
+        139
+      ]
+    },
+    {
+      "hint": "Return to Echoes of Night to turn in the unknown samples and learn the next step.",
+      "map": 1550,
+      "name": "Map of Known Samples",
+      "pos": [
+        23854,
+        11103,
+        2480
+      ]
+    },
+    {
+      "hint": "Obtained after participating in \"Hunt down the rampaging warg\"",
+      "map": 1550,
+      "name": "Known Track 01",
+      "pos": [
+        37300,
+        2177,
+        13100
+      ]
+    },
+    {
+      "hint": "Obtained after participating in \"Escort Ardent Gale as she poisons valravn nests\"",
+      "map": 1550,
+      "name": "Known Track 02",
+      "pos": [
+        -6601,
+        -1548,
+        7714
+      ]
+    },
+    {
+      "hint": "Obtained after participating in \"Defeat the invasive iboga\"",
+      "map": 1550,
+      "name": "Known Track 03",
+      "pos": [
+        27352,
+        -14374,
+        11680
+      ]
+    },
+    {
+      "hint": "Obtained after participating in \"Help Warming Sun heal the wounded fawn\"",
+      "map": 1550,
+      "name": "Known Track 04",
+      "pos": [
+        21365,
+        -10145,
+        12094
+      ]
+    },
+    {
+      "hint": "Obtained after participating in Defeat the \"Bog Queen before she floods the area with maggots\"",
+      "map": 1550,
+      "name": "Known Track 05",
+      "pos": [
+        -23236,
+        18391,
+        -17
+      ]
+    },
+    {
+      "hint": "Talk to Ward Member Eno.",
+      "map": 1550,
+      "name": "All Samples Returned",
+      "pos": [
+        23520,
+        -21999,
+        16657
+      ]
+    },
+    {
+      "hint": "Talk to Echoes of the Night.",
+      "map": 1550,
+      "name": "Sample Results",
+      "pos": [
+        36144,
+        19003,
+        52
+      ]
+    }
+  ]
+}

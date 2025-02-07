@@ -1,0 +1,15 @@
+{
+  "name": "Man Overboard!",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Diving Goggles Location",
+      "pos": [
+        -347.84,
+        -1225.28,
+        5829.44
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Coalescence I: Unbridled",
+  "objectives": [
+    {
+      "hint": "Can collect after defeating Soulless Horror.",
+      "map": 1264,
+      "name": "Transcendental Binding",
+      "pos": [
+        -13451,
+        7079,
+        1491
+      ]
+    },
+    {
+      "hint": "Can collect after completing River of Souls.",
+      "map": 1264,
+      "name": "Transcendental Ink",
+      "pos": [
+        8858,
+        -2082,
+        923
+      ]
+    },
+    {
+      "hint": "Can collect after defeating Dhuum.",
+      "map": 1264,
+      "name": "Transcendental Parchment",
+      "pos": [
+        18543,
+        611,
+        6480
+      ]
+    },
+    {
+      "hint": "/sit for 60s",
+      "map": 1210,
+      "name": "Meditation Log: Crystal Oasis",
+      "pos": [
+        21889.92,
+        12736.32,
+        10953.6
+      ]
+    },
+    {
+      "hint": "/sit for 60s",
+      "map": 1211,
+      "name": "Meditation Log: Desert Highlands",
+      "pos": [
+        -47738.56,
+        -13312.0,
+        5254.4
+      ]
+    },
+    {
+      "hint": "/sit for 60s",
+      "map": 1228,
+      "name": "Meditation Log: Elon Riverlands",
+      "pos": [
+        38469.12,
+        -35728.0,
+        91.84
+      ]
+    },
+    {
+      "hint": "/sit for 60s",
+      "map": 1226,
+      "name": "Meditation Log: The Desolation",
+      "pos": [
+        41354.56,
+        57109.76,
+        2112.64
+      ]
+    },
+    {
+      "hint": "/sit for 60s",
+      "map": 1248,
+      "name": "Meditation Log: Domain of Vabbi",
+      "pos": [
+        -1637.12,
+        19738.56,
+        4340.8
+      ]
+    },
+    {
+      "hint": "Talk to \"Hasara\" with \"Meditation Logbook\" in your inventory.",
+      "map": 1211,
+      "name": "Meditation Log: Completed Log",
+      "pos": [
+        -55016.96,
+        -2936.96,
+        20390.08
+      ]
+    }
+  ]
+}

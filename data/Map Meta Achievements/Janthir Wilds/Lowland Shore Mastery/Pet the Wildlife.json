@@ -1,0 +1,25 @@
+{
+  "name": "Pet the Wildlife",
+  "objectives": [
+    {
+      "hint": "Target it and press F.",
+      "map": 1550,
+      "name": "Pet the wolf pup after completing the \"Heal the wounded wolf pup\" event.",
+      "pos": [
+        18515,
+        11408,
+        5869
+      ]
+    },
+    {
+      "hint": "Target it and press F.",
+      "map": 1550,
+      "name": "Pet the fawn after completing the \"Heal the wounded fawn\" event.",
+      "pos": [
+        -35558,
+        4319,
+        7517
+      ]
+    }
+  ]
+}

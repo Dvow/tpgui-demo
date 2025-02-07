@@ -1,0 +1,85 @@
+{
+  "name": "Cultural Culinary Comprehension",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Feed every meal from the recipe list to kodans once.",
+      "pos": [
+        17511,
+        15523,
+        5827
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Honey Cider location.",
+      "pos": [
+        18118,
+        15503,
+        5863
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Honey location.",
+      "pos": [
+        15801,
+        13448,
+        5870
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Cabbage and fruits location.",
+      "pos": [
+        17606,
+        14831,
+        5871
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Tomatoes and herbs.",
+      "pos": [
+        17185,
+        14890,
+        5864
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Red Meat and eggs.",
+      "pos": [
+        17335,
+        15428,
+        5827
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Carrots, pumkpins and a fireplace location.",
+      "pos": [
+        17519,
+        15919,
+        5827
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Fish location.",
+      "pos": [
+        18057,
+        14226,
+        5831
+      ]
+    }
+  ]
+}

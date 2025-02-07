@@ -1,0 +1,75 @@
+{
+  "name": "Mad Mysteries",
+  "objectives": [
+    {
+      "hint": "",
+      "map": 50,
+      "name": "Talk to Magister Tassi",
+      "pos": [
+        -3341.888,
+        6134.24,
+        940.9632
+      ]
+    },
+    {
+      "hint": "Candy Powered Matter Meter Mk2 - Use skill 3, interact with Suspicious Location and talk to Serene",
+      "map": 50,
+      "name": "Mad Memoires I: Boyhood",
+      "pos": [
+        -3727.168,
+        5484.8,
+        939.936
+      ]
+    },
+    {
+      "hint": "Use skill 1,interact with Suspicious Location and talk to Samson",
+      "map": 50,
+      "name": "Mad Memoires II: Friendship",
+      "pos": [
+        15354.624,
+        -160.05376,
+        42.02528
+      ]
+    },
+    {
+      "hint": "Use skill 3,interact with Suspicious Location and talk to Tynna",
+      "map": 50,
+      "name": "Mad Memoires III: Young Love",
+      "pos": [
+        -14212.768,
+        -3332.576,
+        -2267.5712
+      ]
+    },
+    {
+      "hint": "Use skill 2,interact with Suspicious Location and talk to Prince Ewan Thorn",
+      "map": 15,
+      "name": "Mad Memoires IV: Deadly Adventures",
+      "pos": [
+        -5516.8,
+        24461.344,
+        2229.5616
+      ]
+    },
+    {
+      "hint": "Use skill 4,interact with Suspicious Location and talk to Lady Lyrica",
+      "map": 23,
+      "name": "Mad Memoires V: Betrothed",
+      "pos": [
+        40695.68,
+        19968.672,
+        619.936
+      ]
+    },
+    {
+      "hint": "Use skill 2,interact with Suspicious Location and talk to Lord Humphrey Faren",
+      "map": 24,
+      "name": "Mad Memoires VI: Coronation",
+      "pos": [
+        2095.8624,
+        21943.488,
+        -10.05504
+      ]
+    }
+  ]
+}

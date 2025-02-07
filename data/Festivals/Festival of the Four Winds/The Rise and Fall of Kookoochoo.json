@@ -1,0 +1,305 @@
+{
+  "name": "The Rise and Fall of Kookoochoo",
+  "objectives": [
+    {
+      "hint": "Speak to Folamh the bartender.",
+      "map": 922,
+      "name": "Kookoochoo the Incombustible",
+      "pos": [
+        -4539.84,
+        7651.84,
+        4545.92
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Inconsequential",
+      "pos": [
+        -2988.16,
+        9176.64,
+        4617.92
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Insecure",
+      "pos": [
+        -3376.32,
+        9410.88,
+        4277.12
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Inaccurate",
+      "pos": [
+        -4688.32,
+        9451.2,
+        3945.92
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Infirmed",
+      "pos": [
+        -6948.16,
+        7649.28,
+        3504.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Insubstantial",
+      "pos": [
+        -5633.28,
+        7210.24,
+        4109.44
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Invalid",
+      "pos": [
+        -2181.12,
+        5044.16,
+        4436.48
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Infuriated",
+      "pos": [
+        -841.28,
+        3517.44,
+        4886.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Indiscreet",
+      "pos": [
+        -560.96,
+        6379.2,
+        4502.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Incautious",
+      "pos": [
+        -1028.48,
+        3435.84,
+        2051.84
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Infernal",
+      "pos": [
+        -3617.6,
+        11795.2,
+        3911.04
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Invidious",
+      "pos": [
+        -4280.32,
+        10472.32,
+        3929.6
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Inappropriate",
+      "pos": [
+        -2471.68,
+        10533.76,
+        3324.8
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Incoherent",
+      "pos": [
+        -2090.56,
+        10667.84,
+        2445.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Inane",
+      "pos": [
+        -991.68,
+        10518.08,
+        2203.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Iniquitous",
+      "pos": [
+        -858.56,
+        10419.2,
+        3691.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Inexplicable",
+      "pos": [
+        -181.76,
+        9570.88,
+        2995.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Incongruous",
+      "pos": [
+        1252.16,
+        9536.0,
+        3036.48
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Incomprehensible",
+      "pos": [
+        4074.88,
+        9987.84,
+        3128.32
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Infallible",
+      "pos": [
+        3924.48,
+        8919.68,
+        2488.32
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Indisputable",
+      "pos": [
+        4040.64,
+        6858.56,
+        2332.48
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Incontrovertible",
+      "pos": [
+        4596.48,
+        4098.56,
+        1713.28
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Inscrutable",
+      "pos": [
+        5848.96,
+        8169.6,
+        1971.84
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Indubitable",
+      "pos": [
+        2438.72,
+        10358.72,
+        1786.88
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Intemperate",
+      "pos": [
+        1210.24,
+        10047.36,
+        332.8
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Intolerant",
+      "pos": [
+        2440.0,
+        7386.24,
+        45.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Insane",
+      "pos": [
+        -1383.36,
+        8685.44,
+        80.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Incriminated",
+      "pos": [
+        1182.4,
+        7423.68,
+        49.6
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Indicted",
+      "pos": [
+        -968.32,
+        7505.6,
+        179.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Kookoochoo the Incarcerated",
+      "pos": [
+        421.12,
+        7143.68,
+        -684.48
+      ]
+    }
+  ]
+}

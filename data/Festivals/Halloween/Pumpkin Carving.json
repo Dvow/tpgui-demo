@@ -1,0 +1,2435 @@
+{
+  "name": "Pumpkin Carving",
+  "objectives": [
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #1",
+      "pos": [
+        4390.08,
+        17213.76,
+        28.16
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #2",
+      "pos": [
+        4675.2,
+        15437.76,
+        256.32
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #3",
+      "pos": [
+        6834.88,
+        15403.2,
+        38.08
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #4",
+      "pos": [
+        7308.48,
+        14339.84,
+        24.0
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #5",
+      "pos": [
+        20796.8,
+        17924.8,
+        1493.44
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #6",
+      "pos": [
+        36018.88,
+        23784.64,
+        991.04
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #7",
+      "pos": [
+        40581.44,
+        22244.48,
+        1154.56
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #8",
+      "pos": [
+        32701.12,
+        10722.56,
+        863.36
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #9",
+      "pos": [
+        14497.28,
+        -26412.8,
+        271.36
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #10",
+      "pos": [
+        12813.12,
+        -23784.96,
+        286.72
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #11",
+      "pos": [
+        -21141.76,
+        -17395.2,
+        1394.56
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #12",
+      "pos": [
+        -32278.72,
+        -19676.16,
+        20.16
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #13",
+      "pos": [
+        -23501.44,
+        6157.12,
+        2886.08
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #14",
+      "pos": [
+        -29333.76,
+        9032.0,
+        1792.32
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #15",
+      "pos": [
+        -29590.4,
+        14153.92,
+        936.96
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #16",
+      "pos": [
+        -31756.16,
+        15191.04,
+        1957.76
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #17",
+      "pos": [
+        -31635.52,
+        16288.96,
+        1817.6
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #18",
+      "pos": [
+        -36944.32,
+        15193.92,
+        1026.56
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #19",
+      "pos": [
+        -41225.28,
+        14144.96,
+        1129.92
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #20",
+      "pos": [
+        -37895.04,
+        24431.68,
+        577.6
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #21",
+      "pos": [
+        -34218.56,
+        29075.84,
+        685.12
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #22",
+      "pos": [
+        -21113.28,
+        17273.6,
+        1306.56
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #23",
+      "pos": [
+        -20292.16,
+        14841.92,
+        826.88
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #24",
+      "pos": [
+        -19494.72,
+        14246.4,
+        838.4
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #25",
+      "pos": [
+        -12044.48,
+        21918.72,
+        2684.8
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #26",
+      "pos": [
+        -14087.68,
+        22244.8,
+        2830.72
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #27",
+      "pos": [
+        -6543.04,
+        22737.6,
+        2093.76
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #28",
+      "pos": [
+        -3375.68,
+        21302.72,
+        2227.52
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #29",
+      "pos": [
+        -8258.88,
+        15195.2,
+        1141.76
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #30",
+      "pos": [
+        -6886.72,
+        14570.88,
+        1421.12
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #31",
+      "pos": [
+        -5275.52,
+        12615.36,
+        1737.6
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Queensdale #32",
+      "pos": [
+        -27181.12,
+        15734.4,
+        943.04
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Quensdale #33",
+      "pos": [
+        -6157.12,
+        8930.56,
+        1099.52
+      ]
+    },
+    {
+      "hint": "",
+      "map": 15,
+      "name": "Entrance to Gendarran Fields",
+      "pos": [
+        40170.56,
+        7709.76,
+        1204.16
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #1",
+      "pos": [
+        -46079.68,
+        14239.36,
+        329.92
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #2",
+      "pos": [
+        -41018.56,
+        3947.84,
+        534.4
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #3",
+      "pos": [
+        -45299.84,
+        20636.48,
+        1647.04
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #4",
+      "pos": [
+        -1863.36,
+        18256.0,
+        497.6
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #5",
+      "pos": [
+        21048.64,
+        20920.0,
+        2891.2
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #6",
+      "pos": [
+        38375.36,
+        11755.52,
+        1165.76
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #7",
+      "pos": [
+        41222.72,
+        -7928.0,
+        2895.68
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #8",
+      "pos": [
+        29519.36,
+        -19716.16,
+        88.64
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #9",
+      "pos": [
+        16788.48,
+        -16869.12,
+        403.52
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #10",
+      "pos": [
+        26568.64,
+        -4295.04,
+        1609.92
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #11",
+      "pos": [
+        27425.28,
+        -4294.72,
+        830.72
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #12",
+      "pos": [
+        28162.88,
+        -422.72,
+        916.16
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #13",
+      "pos": [
+        13726.72,
+        -13272.96,
+        591.68
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #14",
+      "pos": [
+        8909.44,
+        -18987.84,
+        159.04
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #15",
+      "pos": [
+        5485.76,
+        -15634.24,
+        354.56
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #16",
+      "pos": [
+        -2581.44,
+        -20422.4,
+        296.0
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #17",
+      "pos": [
+        -17020.8,
+        -13933.76,
+        24.96
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #18",
+      "pos": [
+        -17398.72,
+        -4623.04,
+        588.48
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #19",
+      "pos": [
+        -14420.48,
+        331.52,
+        245.12
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #20",
+      "pos": [
+        -38946.56,
+        -11034.24,
+        1726.08
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #21",
+      "pos": [
+        -29661.44,
+        14191.36,
+        824.0
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #22",
+      "pos": [
+        -34320.0,
+        17054.72,
+        1372.8
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #23",
+      "pos": [
+        -30994.88,
+        2377.6,
+        1186.24
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #24",
+      "pos": [
+        6224.64,
+        4055.68,
+        74.24
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #25",
+      "pos": [
+        -19709.44,
+        17417.92,
+        1298.56
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Gendarran Fields #26",
+      "pos": [
+        9587.52,
+        15770.24,
+        484.48
+      ]
+    },
+    {
+      "hint": "",
+      "map": 24,
+      "name": "Entrance to Kessex Hills",
+      "pos": [
+        -46175.68,
+        -19428.16,
+        355.84
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #1",
+      "pos": [
+        -34600.32,
+        18010.88,
+        3637.12
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #2",
+      "pos": [
+        -32262.08,
+        -21203.52,
+        95.36
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #3",
+      "pos": [
+        -25524.8,
+        11987.52,
+        1688.64
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #4",
+      "pos": [
+        27969.92,
+        20116.48,
+        2209.28
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #5",
+      "pos": [
+        39356.48,
+        22078.72,
+        97.92
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #6",
+      "pos": [
+        45350.4,
+        20459.84,
+        643.2
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #7",
+      "pos": [
+        42265.92,
+        16644.16,
+        539.52
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #8",
+      "pos": [
+        36466.56,
+        14788.16,
+        2225.6
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #9",
+      "pos": [
+        36334.08,
+        14032.64,
+        1752.32
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #10",
+      "pos": [
+        32442.24,
+        14849.92,
+        1537.6
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #11",
+      "pos": [
+        29082.24,
+        6906.88,
+        2783.04
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #12",
+      "pos": [
+        13280.0,
+        14962.88,
+        1977.92
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #13",
+      "pos": [
+        45161.28,
+        -12312.64,
+        2022.08
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #14",
+      "pos": [
+        47075.2,
+        -10683.2,
+        1981.44
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #15",
+      "pos": [
+        47353.28,
+        -17276.8,
+        721.92
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #16",
+      "pos": [
+        46736.0,
+        -3847.36,
+        1677.12
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #17",
+      "pos": [
+        43624.32,
+        -13693.12,
+        2926.72
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #18",
+      "pos": [
+        37656.0,
+        2330.56,
+        2167.04
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #19",
+      "pos": [
+        36487.36,
+        -11451.52,
+        2881.28
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #20",
+      "pos": [
+        12655.36,
+        -14613.44,
+        2250.56
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #21",
+      "pos": [
+        12253.12,
+        -16637.12,
+        2763.52
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #22",
+      "pos": [
+        -14201.92,
+        10083.84,
+        857.92
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #23",
+      "pos": [
+        -20752.64,
+        -11627.2,
+        695.36
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #24",
+      "pos": [
+        -13894.08,
+        -20025.28,
+        979.52
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #25",
+      "pos": [
+        -12314.88,
+        1724.8,
+        75.52
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #26",
+      "pos": [
+        -13947.84,
+        1921.28,
+        8.64
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Kessex Hills #27",
+      "pos": [
+        -12962.24,
+        -17376.0,
+        702.08
+      ]
+    },
+    {
+      "hint": "",
+      "map": 23,
+      "name": "Entrance to Caledon Forest",
+      "pos": [
+        -7198.72,
+        -22255.36,
+        1888.64
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #1",
+      "pos": [
+        10432.0,
+        38904.96,
+        707.2
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #2",
+      "pos": [
+        783.04,
+        47170.56,
+        150.72
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #3",
+      "pos": [
+        -17472.96,
+        44879.04,
+        188.16
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #4",
+      "pos": [
+        13365.44,
+        41525.76,
+        345.92
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #5",
+      "pos": [
+        21580.48,
+        35273.92,
+        353.28
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #6",
+      "pos": [
+        17282.56,
+        33247.68,
+        46.08
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #7",
+      "pos": [
+        -3232.64,
+        34340.48,
+        598.72
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #8",
+      "pos": [
+        17944.64,
+        9295.04,
+        771.52
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #9",
+      "pos": [
+        3583.36,
+        6542.08,
+        1643.2
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #10",
+      "pos": [
+        -1591.68,
+        -131.52,
+        181.44
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #11",
+      "pos": [
+        -14817.28,
+        -2123.2,
+        439.36
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #12",
+      "pos": [
+        -8584.0,
+        -6279.36,
+        362.56
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #13",
+      "pos": [
+        15831.68,
+        -6111.04,
+        46.4
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #14",
+      "pos": [
+        16620.16,
+        -24463.04,
+        1889.92
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #15",
+      "pos": [
+        22341.12,
+        -34781.44,
+        593.92
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #16",
+      "pos": [
+        15141.12,
+        -42540.48,
+        56.0
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #17",
+      "pos": [
+        -6692.48,
+        -39418.88,
+        178.88
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #18",
+      "pos": [
+        -4763.84,
+        -38472.32,
+        41.6
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #19",
+      "pos": [
+        -3736.0,
+        -37420.48,
+        35.2
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #20",
+      "pos": [
+        -10626.88,
+        -20454.4,
+        24.96
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #21",
+      "pos": [
+        -17913.92,
+        -26485.76,
+        89.6
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #22",
+      "pos": [
+        -8435.2,
+        -12906.24,
+        1252.8
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #23",
+      "pos": [
+        14045.12,
+        -27148.8,
+        1636.8
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #24",
+      "pos": [
+        564.48,
+        -12840.64,
+        949.76
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #25",
+      "pos": [
+        -13.12,
+        -25735.04,
+        753.6
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Caledon Forest #26",
+      "pos": [
+        739.52,
+        -10362.24,
+        1470.08
+      ]
+    },
+    {
+      "hint": "",
+      "map": 34,
+      "name": "Entrance to Metrica Province",
+      "pos": [
+        -19348.16,
+        12310.08,
+        1707.2
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #1",
+      "pos": [
+        -20587.52,
+        -29123.52,
+        2088.64
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #2",
+      "pos": [
+        -19008.0,
+        -27182.72,
+        2679.36
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #3",
+      "pos": [
+        -14455.68,
+        -30387.84,
+        2344.32
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #4",
+      "pos": [
+        -1735.04,
+        -13797.44,
+        2085.12
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #5",
+      "pos": [
+        5922.56,
+        -26643.2,
+        55.68
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #6",
+      "pos": [
+        -2762.24,
+        -29499.52,
+        2008.96
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #7",
+      "pos": [
+        -3469.76,
+        -31407.04,
+        1512.32
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #8",
+      "pos": [
+        -2040.64,
+        -28781.44,
+        597.44
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #9",
+      "pos": [
+        -5748.16,
+        -27389.76,
+        1371.84
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #10",
+      "pos": [
+        -6985.28,
+        -25280.64,
+        1160.96
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #11",
+      "pos": [
+        8240.64,
+        -35189.12,
+        480.32
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #12",
+      "pos": [
+        24379.52,
+        -23698.88,
+        1501.12
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #13",
+      "pos": [
+        -1491.84,
+        -4476.16,
+        1934.08
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #14",
+      "pos": [
+        -3555.84,
+        -5927.04,
+        1148.48
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #15",
+      "pos": [
+        -1111.36,
+        -15.68,
+        84.8
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #16",
+      "pos": [
+        -3094.72,
+        1340.48,
+        553.92
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #17",
+      "pos": [
+        -5401.28,
+        4079.04,
+        433.6
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #18",
+      "pos": [
+        23502.4,
+        -5744.96,
+        834.88
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #19",
+      "pos": [
+        6665.6,
+        9579.52,
+        1757.76
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #20",
+      "pos": [
+        17867.84,
+        19296.64,
+        906.88
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #21",
+      "pos": [
+        12212.48,
+        28213.76,
+        1084.16
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #22",
+      "pos": [
+        15688.64,
+        32235.84,
+        2881.28
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #23",
+      "pos": [
+        19640.0,
+        15384.96,
+        1890.24
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #24",
+      "pos": [
+        14040.32,
+        -2458.88,
+        714.56
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #25",
+      "pos": [
+        15842.88,
+        -15080.64,
+        1874.24
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #26",
+      "pos": [
+        8813.76,
+        -17934.4,
+        2160.0
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #27",
+      "pos": [
+        -8081.92,
+        27800.64,
+        328.32
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #28",
+      "pos": [
+        -15567.36,
+        28552.64,
+        967.36
+      ]
+    },
+    {
+      "hint": "",
+      "map": 35,
+      "name": "Metrica Province #29",
+      "pos": [
+        -20326.08,
+        -30277.12,
+        2141.44
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #1",
+      "pos": [
+        2051.84,
+        45778.56,
+        7405.76
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #2",
+      "pos": [
+        15545.6,
+        37333.44,
+        5041.6
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #3",
+      "pos": [
+        -1086.72,
+        26416.32,
+        5725.76
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #4",
+      "pos": [
+        -15703.68,
+        16826.88,
+        3760.64
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #5",
+      "pos": [
+        -6600.64,
+        19317.12,
+        3810.56
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #6",
+      "pos": [
+        16232.96,
+        17776.64,
+        2959.04
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #7",
+      "pos": [
+        -3463.36,
+        8272.0,
+        3757.76
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #8",
+      "pos": [
+        -17066.88,
+        -8325.12,
+        4984.32
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #9",
+      "pos": [
+        -9161.92,
+        -22684.16,
+        3873.92
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #10",
+      "pos": [
+        -7458.56,
+        -23736.96,
+        3741.12
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #11",
+      "pos": [
+        830.72,
+        -33551.68,
+        1003.2
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #12",
+      "pos": [
+        1590.4,
+        -44011.52,
+        508.48
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #13",
+      "pos": [
+        5015.68,
+        -19553.28,
+        111.68
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #14",
+      "pos": [
+        12237.12,
+        -19355.52,
+        1011.52
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #15",
+      "pos": [
+        17591.36,
+        -5541.44,
+        4649.28
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #16",
+      "pos": [
+        10814.08,
+        9536.64,
+        2820.16
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #17",
+      "pos": [
+        17558.72,
+        10007.36,
+        2840.96
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #18",
+      "pos": [
+        7938.56,
+        -4984.32,
+        920.32
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #19",
+      "pos": [
+        2442.24,
+        4792.96,
+        3904.0
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #20",
+      "pos": [
+        -2094.08,
+        -3475.2,
+        1636.8
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #21",
+      "pos": [
+        2916.8,
+        36325.12,
+        4603.84
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #22",
+      "pos": [
+        10315.2,
+        31753.92,
+        2938.56
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #23",
+      "pos": [
+        17741.44,
+        22785.28,
+        2990.08
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #24",
+      "pos": [
+        10443.52,
+        22055.04,
+        3600.0
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #25",
+      "pos": [
+        4694.08,
+        -48949.76,
+        818.88
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #26",
+      "pos": [
+        -2666.24,
+        -52235.2,
+        2064.0
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #27",
+      "pos": [
+        -7115.2,
+        32310.08,
+        5724.8
+      ]
+    },
+    {
+      "hint": "",
+      "map": 28,
+      "name": "Wayfarer Foothills #28",
+      "pos": [
+        -6147.52,
+        -15711.68,
+        6769.6
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #1",
+      "pos": [
+        -38358.72,
+        2335.68,
+        1457.92
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #2",
+      "pos": [
+        -39488.64,
+        11024.96,
+        1603.84
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #3",
+      "pos": [
+        -34770.88,
+        11835.84,
+        1611.84
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #4",
+      "pos": [
+        -31175.36,
+        19036.16,
+        828.48
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #5",
+      "pos": [
+        -41694.08,
+        20280.64,
+        2134.08
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #6",
+      "pos": [
+        -46591.68,
+        21533.12,
+        2831.68
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #7",
+      "pos": [
+        -35861.12,
+        -7669.12,
+        1737.92
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #8",
+      "pos": [
+        -38753.92,
+        -16865.92,
+        1408.64
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #9",
+      "pos": [
+        -23656.0,
+        -5833.6,
+        2330.56
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #10",
+      "pos": [
+        -25465.28,
+        9172.48,
+        1640.96
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #11",
+      "pos": [
+        -19107.2,
+        3167.36,
+        2140.8
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #12",
+      "pos": [
+        -11496.64,
+        -18185.28,
+        143.68
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #13",
+      "pos": [
+        -2647.68,
+        -2290.56,
+        758.08
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #14",
+      "pos": [
+        6211.84,
+        -13346.88,
+        1638.08
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #15",
+      "pos": [
+        13480.32,
+        -13044.48,
+        131.52
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #16",
+      "pos": [
+        22837.44,
+        -8040.96,
+        176.0
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #17",
+      "pos": [
+        37486.08,
+        -10154.88,
+        1739.2
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #18",
+      "pos": [
+        42235.52,
+        8590.4,
+        1232.96
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #19",
+      "pos": [
+        36864.0,
+        8532.8,
+        970.56
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #20",
+      "pos": [
+        36997.44,
+        20636.16,
+        2985.6
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #21",
+      "pos": [
+        13382.08,
+        15097.6,
+        1201.28
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #22",
+      "pos": [
+        14936.32,
+        5400.32,
+        1255.68
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #23",
+      "pos": [
+        -25.28,
+        6505.92,
+        2040.32
+      ]
+    },
+    {
+      "hint": "",
+      "map": 19,
+      "name": "Plains of Ashford #24",
+      "pos": [
+        3176.32,
+        -10187.2,
+        1590.72
+      ]
+    },
+    {
+      "hint": "",
+      "map": 50,
+      "name": "Lions Arch #1",
+      "pos": [
+        -3254.4,
+        11724.8,
+        922.88
+      ]
+    },
+    {
+      "hint": "",
+      "map": 50,
+      "name": "Lions Arch #2",
+      "pos": [
+        -256.96,
+        13380.8,
+        2762.56
+      ]
+    },
+    {
+      "hint": "",
+      "map": 50,
+      "name": "Lions Arch #3",
+      "pos": [
+        1756.16,
+        12718.4,
+        864.0
+      ]
+    },
+    {
+      "hint": "",
+      "map": 50,
+      "name": "Lions Arch #4",
+      "pos": [
+        -11041.92,
+        16590.08,
+        1816.0
+      ]
+    },
+    {
+      "hint": "",
+      "map": 50,
+      "name": "Lions Arch #5",
+      "pos": [
+        -9479.36,
+        10781.76,
+        482.24
+      ]
+    },
+    {
+      "hint": "",
+      "map": 50,
+      "name": "Lions Arch #6",
+      "pos": [
+        -15374.08,
+        8640.32,
+        70.72
+      ]
+    },
+    {
+      "hint": "",
+      "map": 50,
+      "name": "Lions Arch #7",
+      "pos": [
+        -11714.56,
+        7819.52,
+        1832.64
+      ]
+    },
+    {
+      "hint": "",
+      "map": 50,
+      "name": "Lions Arch #8",
+      "pos": [
+        -19164.48,
+        10775.36,
+        3032.32
+      ]
+    },
+    {
+      "hint": "",
+      "map": 50,
+      "name": "Lions Arch #9",
+      "pos": [
+        22660.16,
+        -945.92,
+        2605.12
+      ]
+    },
+    {
+      "hint": "",
+      "map": 50,
+      "name": "Lions Arch #10",
+      "pos": [
+        -259.2,
+        -794.56,
+        21.44
+      ]
+    },
+    {
+      "hint": "",
+      "map": 50,
+      "name": "Lions Arch #11",
+      "pos": [
+        -2363.2,
+        1001.28,
+        870.08
+      ]
+    },
+    {
+      "hint": "",
+      "map": 50,
+      "name": "Lions Arch #12",
+      "pos": [
+        6146.88,
+        -5604.8,
+        1192.0
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #1",
+      "pos": [
+        -1959.5232,
+        -1858.2432,
+        7629.536
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #2",
+      "pos": [
+        421.1584,
+        1252.6656,
+        8077.408
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #3",
+      "pos": [
+        7185.6,
+        5529.984,
+        6864.192
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #4",
+      "pos": [
+        5139.84,
+        808.9376,
+        7050.624
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #5",
+      "pos": [
+        7715.936,
+        1206.3936,
+        7250.816
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #6",
+      "pos": [
+        -1209.6256,
+        7997.12,
+        6944.224
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #7",
+      "pos": [
+        2768.1056,
+        7940.48,
+        6921.632
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #8",
+      "pos": [
+        2674.8352,
+        7262.816,
+        6927.392
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #9",
+      "pos": [
+        8321.248,
+        -1892.5216,
+        7305.856
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #10",
+      "pos": [
+        4450.24,
+        -832.3168,
+        7028.16
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #11",
+      "pos": [
+        6177.664,
+        -6657.792,
+        7131.776
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #12",
+      "pos": [
+        3846.976,
+        -8297.92,
+        6746.08
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #13",
+      "pos": [
+        1877.7152,
+        -4568.384,
+        7049.056
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #14",
+      "pos": [
+        3010.8064,
+        -5311.392,
+        7086.688
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #15",
+      "pos": [
+        604.4384,
+        -4096.928,
+        7052.8
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #16",
+      "pos": [
+        -1232.7904,
+        -6401.536,
+        6919.552
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #17",
+      "pos": [
+        -2166.1888,
+        -7464.288,
+        6708.512
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #18",
+      "pos": [
+        -2843.5968,
+        -6593.472,
+        6890.112
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #19",
+      "pos": [
+        -5751.008,
+        -6446.272,
+        7004.32
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #20",
+      "pos": [
+        -6833.632,
+        -6833.696,
+        6709.856
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #21",
+      "pos": [
+        -6018.208,
+        -5320.576,
+        7065.856
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #22",
+      "pos": [
+        -7105.792,
+        -1964.6784,
+        6934.816
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #23",
+      "pos": [
+        -6180.576,
+        -1307.4848,
+        6965.792
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #24",
+      "pos": [
+        -5900.608,
+        -272.20832,
+        6921.536
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #25",
+      "pos": [
+        -6656.256,
+        704.4512,
+        6893.856
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #26",
+      "pos": [
+        -6131.04,
+        1152.192,
+        6879.712
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #27",
+      "pos": [
+        -7228.96,
+        1538.224,
+        6948.704
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #28",
+      "pos": [
+        -5500.576,
+        2878.7296,
+        6947.712
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #29",
+      "pos": [
+        -5466.688,
+        7800.992,
+        7135.712
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #30",
+      "pos": [
+        561.9648,
+        2050.7296,
+        7613.728
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #31",
+      "pos": [
+        1952.1472,
+        1859.776,
+        7718.432
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #32",
+      "pos": [
+        1847.4688,
+        -2487.7376,
+        7641.984
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #33",
+      "pos": [
+        90.50016,
+        249.60672,
+        8923.456
+      ]
+    },
+    {
+      "hint": "",
+      "map": 866,
+      "name": "Labyrinth Pumpkin #34",
+      "pos": [
+        5531.84,
+        -5155.84,
+        6939.52
+      ]
+    }
+  ]
+}

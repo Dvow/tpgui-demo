@@ -1,0 +1,95 @@
+{
+  "name": "Open Skies: Desert Highlands",
+  "objectives": [
+    {
+      "hint": "Defend a Sunspear from the Mordant Crescent in Kanuz Cache to acquire this relic.",
+      "map": 1211,
+      "name": "Zaklem, the Rune of Loyalty",
+      "pos": [
+        4699.6123,
+        -20088.527,
+        4484.1123
+      ]
+    },
+    {
+      "hint": "Purchase this relic from Groffmok. 25 Gold.",
+      "map": 1211,
+      "name": "Enormous Supply of Bird Feed",
+      "pos": [
+        19630.354,
+        9022.18,
+        7655.4497
+      ]
+    },
+    {
+      "hint": "Purchase this relic from Tendaji. 25 Gold.",
+      "map": 1211,
+      "name": "Survival Supplies",
+      "pos": [
+        21259.428,
+        -24300.332,
+        5834.3125
+      ]
+    },
+    {
+      "hint": "Acquire this relic from the last spearmarshal.",
+      "map": 1248,
+      "name": "Spearmarshal's Plea",
+      "pos": [
+        56193.082,
+        -26253.754,
+        6078.8843
+      ]
+    },
+    {
+      "hint": "Collect this egg from the griffon roost.",
+      "map": 1211,
+      "name": "Warmed Mountain Griffon Egg",
+      "pos": [
+        -7232.0,
+        -5060.16,
+        11505.28
+      ]
+    },
+    {
+      "hint": "Collect this egg from atop a pillar at Godfall Tower.",
+      "map": 1211,
+      "name": "Crusty Mountain Griffon Egg",
+      "pos": [
+        5182.72,
+        -14161.6,
+        9880.32
+      ]
+    },
+    {
+      "hint": "Collect this egg from above a sheltered tree.",
+      "map": 1211,
+      "name": "Rough Mountain Griffon Egg",
+      "pos": [
+        -23568.96,
+        4909.76,
+        13394.88
+      ]
+    },
+    {
+      "hint": "Collect this egg from the nests of thieving Hawkeye Griffons.",
+      "map": 1211,
+      "name": "Vibrant Mountain Griffon Egg",
+      "pos": [
+        1445.12,
+        8479.68,
+        13236.16
+      ]
+    },
+    {
+      "hint": "Collect this egg from a ledge below Jinx Hollow.",
+      "map": 1211,
+      "name": "Damp Mountain Griffon Egg",
+      "pos": [
+        -39100.8,
+        -13804.48,
+        9223.68
+      ]
+    }
+  ]
+}

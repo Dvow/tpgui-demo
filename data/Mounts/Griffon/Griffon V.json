@@ -1,0 +1,95 @@
+{
+  "name": "Open Skies: Domain of Vabbi",
+  "objectives": [
+    {
+      "hint": "Rescue a captured Sunspear.",
+      "map": 1248,
+      "name": "Yasfahr, the Rune of Sacrifice",
+      "pos": [
+        14861.243,
+        -17834.57,
+        3168.9375
+      ]
+    },
+    {
+      "hint": "Purchase this relic from Awakened Servant Tooraj. 25 Gold.",
+      "map": 1248,
+      "name": "Stone-Carving Tools",
+      "pos": [
+        -47939.12,
+        3743.593,
+        2465.3633
+      ]
+    },
+    {
+      "hint": "Purchase this relic from Distinguished Professor Nazimi. 25 Gold.",
+      "map": 1248,
+      "name": "Guard Bribe",
+      "pos": [
+        8318.639,
+        -27174.848,
+        2600.1406
+      ]
+    },
+    {
+      "hint": "Acquire this relic from the last spearmarshal.",
+      "map": 1248,
+      "name": "Spearmarshal's Plea",
+      "pos": [
+        56193.082,
+        -26253.754,
+        6078.8843
+      ]
+    },
+    {
+      "hint": "Collect this egg from the griffon roost.",
+      "map": 1248,
+      "name": "Warmed Vabbian Griffon Egg",
+      "pos": [
+        55512.96,
+        -31717.44,
+        10838.08
+      ]
+    },
+    {
+      "hint": "Collect this egg from one of the highest perches.",
+      "map": 1248,
+      "name": "Cracked Vabbian Griffon Egg",
+      "pos": [
+        50710.08,
+        -20390.72,
+        11079.68
+      ]
+    },
+    {
+      "hint": "Collect this egg from a perch high above the djinn.",
+      "map": 1248,
+      "name": "Polished Vabbian Griffon Egg",
+      "pos": [
+        51861.76,
+        -5105.6,
+        8267.2
+      ]
+    },
+    {
+      "hint": "Collect this egg from a Branded outcropping.",
+      "map": 1248,
+      "name": "Ruddy Vabbian Griffon Egg",
+      "pos": [
+        39011.84,
+        -21655.04,
+        7873.28
+      ]
+    },
+    {
+      "hint": "Collect this egg from a Branded outcropping.",
+      "map": 1248,
+      "name": "Charged Vabbian Griffon Egg",
+      "pos": [
+        40111.68,
+        -31777.6,
+        5247.36
+      ]
+    }
+  ]
+}

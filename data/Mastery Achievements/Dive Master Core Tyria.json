@@ -1,0 +1,385 @@
+{
+  "name": "Dive Master Core Tyria",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 19,
+      "name": "Ascalon Diving Point #1",
+      "pos": [
+        -13589.44,
+        -15185.92,
+        818.88
+      ]
+    },
+    {
+      "hint": null,
+      "map": 19,
+      "name": "Ascalon Diving Point #2",
+      "pos": [
+        24073.6,
+        -15153.28,
+        1940.8
+      ]
+    },
+    {
+      "hint": null,
+      "map": 32,
+      "name": "Ascalon Diving Point #3",
+      "pos": [
+        34893.44,
+        -16730.24,
+        1070.4
+      ]
+    },
+    {
+      "hint": null,
+      "map": 32,
+      "name": "Ascalon Diving Point #4",
+      "pos": [
+        4915.84,
+        13194.24,
+        986.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 21,
+      "name": "Ascalon Diving Point #5",
+      "pos": [
+        -1702.4,
+        3018.88,
+        1426.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 21,
+      "name": "Ascalon Diving Point #6",
+      "pos": [
+        -21541.12,
+        28106.56,
+        565.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 25,
+      "name": "Ascalon Diving Point #7",
+      "pos": [
+        -19838.4,
+        -37906.56,
+        2170.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 25,
+      "name": "Ascalon Diving Point #8",
+      "pos": [
+        5189.12,
+        -30650.56,
+        1368.96
+      ]
+    },
+    {
+      "hint": null,
+      "map": 22,
+      "name": "Ascalon Diving Point #9",
+      "pos": [
+        12464.32,
+        -23045.12,
+        2224.32
+      ]
+    },
+    {
+      "hint": null,
+      "map": 23,
+      "name": "Kryta Diving Point #1",
+      "pos": [
+        42189.12,
+        -19146.56,
+        3465.6
+      ]
+    },
+    {
+      "hint": null,
+      "map": 50,
+      "name": "Kryta Diving Point #2",
+      "pos": [
+        -12354.88,
+        -14800.64,
+        6299.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 24,
+      "name": "Kryta Diving Point #3",
+      "pos": [
+        4761.6,
+        6422.72,
+        1150.4
+      ]
+    },
+    {
+      "hint": null,
+      "map": 24,
+      "name": "Kryta Diving Point #4",
+      "pos": [
+        23605.76,
+        20955.52,
+        2721.6
+      ]
+    },
+    {
+      "hint": null,
+      "map": 17,
+      "name": "Kryta Diving Point #5",
+      "pos": [
+        26204.8,
+        -28225.92,
+        1167.36
+      ]
+    },
+    {
+      "hint": null,
+      "map": 17,
+      "name": "Kryta Diving Point #6",
+      "pos": [
+        -14458.24,
+        25050.56,
+        1330.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 73,
+      "name": "Kryta Diving Point #7",
+      "pos": [
+        13836.8,
+        20456.32,
+        2121.92
+      ]
+    },
+    {
+      "hint": "Pick up the diving glasses, turn 180 degrees around and press the dodge button.",
+      "map": 24,
+      "name": "Kryta Diving Point #8",
+      "pos": [
+        -11938.56,
+        -20940.16,
+        5846.4
+      ]
+    },
+    {
+      "hint": null,
+      "map": 139,
+      "name": "Maguuma Jungle Diving Point #1",
+      "pos": [
+        -179.2,
+        -13769.28,
+        4284.8
+      ]
+    },
+    {
+      "hint": null,
+      "map": 91,
+      "name": "Maguuma Jungle Diving Point #2",
+      "pos": [
+        2242.88,
+        -702.4,
+        2940.8
+      ]
+    },
+    {
+      "hint": null,
+      "map": 35,
+      "name": "Maguuma Jungle Diving Point #3",
+      "pos": [
+        -1013.12,
+        -22317.44,
+        1014.72
+      ]
+    },
+    {
+      "hint": null,
+      "map": 35,
+      "name": "Maguuma Jungle Diving Point #4",
+      "pos": [
+        13147.84,
+        35061.44,
+        731.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 34,
+      "name": "Maguuma Jungle Diving Point #5",
+      "pos": [
+        18038.4,
+        9586.56,
+        884.48
+      ]
+    },
+    {
+      "hint": null,
+      "map": 54,
+      "name": "Maguuma Jungle Diving Point #6",
+      "pos": [
+        20118.08,
+        6520.32,
+        2053.44
+      ]
+    },
+    {
+      "hint": null,
+      "map": 54,
+      "name": "Maguuma Jungle Diving Point #7",
+      "pos": [
+        6031.68,
+        2198.4,
+        1436.48
+      ]
+    },
+    {
+      "hint": null,
+      "map": 39,
+      "name": "Maguuma Jungle Diving Point #8",
+      "pos": [
+        40828.48,
+        19619.2,
+        4061.44
+      ]
+    },
+    {
+      "hint": null,
+      "map": 39,
+      "name": "Maguuma Jungle Diving Point #9",
+      "pos": [
+        42466.24,
+        26371.2,
+        4421.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 51,
+      "name": "Ruins of Orr Diving Point #1",
+      "pos": [
+        19377.28,
+        3843.2,
+        1437.12
+      ]
+    },
+    {
+      "hint": null,
+      "map": 51,
+      "name": "Ruins of Orr Diving Point #2",
+      "pos": [
+        6584.32,
+        -15118.4,
+        1496.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 65,
+      "name": "Ruins of Orr Diving Point #3",
+      "pos": [
+        -15853.76,
+        5200.96,
+        6043.84
+      ]
+    },
+    {
+      "hint": null,
+      "map": 62,
+      "name": "Ruins of Orr Diving Point #4",
+      "pos": [
+        -632.64,
+        -34280.96,
+        1438.72
+      ]
+    },
+    {
+      "hint": null,
+      "map": 62,
+      "name": "Ruins of Orr Diving Point #5",
+      "pos": [
+        4023.68,
+        14638.72,
+        974.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 28,
+      "name": "Shiverpeak Mountains Diving Point #1",
+      "pos": [
+        5648.96,
+        -2024.32,
+        1621.44
+      ]
+    },
+    {
+      "hint": null,
+      "map": 28,
+      "name": "Shiverpeak Mountains Diving Point #2",
+      "pos": [
+        11172.48,
+        -28266.88,
+        1624.32
+      ]
+    },
+    {
+      "hint": null,
+      "map": 30,
+      "name": "Shiverpeak Mountains Diving Point #3",
+      "pos": [
+        -4671.04,
+        14950.72,
+        1959.04
+      ]
+    },
+    {
+      "hint": null,
+      "map": 27,
+      "name": "Shiverpeak Mountains Diving Point #4",
+      "pos": [
+        -9723.84,
+        -25563.52,
+        1048.32
+      ]
+    },
+    {
+      "hint": null,
+      "map": 27,
+      "name": "Shiverpeak Mountains Diving Point #5",
+      "pos": [
+        -16925.76,
+        -48931.2,
+        2066.88
+      ]
+    },
+    {
+      "hint": null,
+      "map": 29,
+      "name": "Shiverpeak Mountains Diving Point #6",
+      "pos": [
+        -6588.48,
+        34968.0,
+        1146.56
+      ]
+    },
+    {
+      "hint": null,
+      "map": 29,
+      "name": "Shiverpeak Mountains Diving Point #7",
+      "pos": [
+        10155.84,
+        -21005.44,
+        3511.68
+      ]
+    }
+  ]
+}

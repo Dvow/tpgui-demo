@@ -1,0 +1,43 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "rust: cargo build",
+            "type": "shell",
+            "command": "cargo",
+            "args": ["build"],
+            "problemMatcher": [
+                "$rustc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "rust: cargo build release",
+            "type": "shell",
+            "command": "cargo",
+            "args": ["build", "--release"],
+            "problemMatcher": [
+                "$rustc"
+            ]
+        },
+        {
+            "label": "rust: cargo check",
+            "type": "shell",
+            "command": "cargo",
+            "args": ["check"],
+            "problemMatcher": [
+                "$rustc"
+            ]
+        },
+        {
+            "label": "rust: cargo clean",
+            "type": "shell",
+            "command": "cargo",
+            "args": ["clean"],
+            "problemMatcher": []
+        }
+    ]
+} 

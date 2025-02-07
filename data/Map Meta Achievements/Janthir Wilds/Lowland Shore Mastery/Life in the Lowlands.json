@@ -1,0 +1,235 @@
+{
+  "name": "Life in Lowlands",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Echoes of Night's Sightings",
+      "pos": [
+        17268,
+        14963,
+        6130
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "The Queen of the Bog",
+      "pos": [
+        23584,
+        12075,
+        2510
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Master of the Spear by Snargle Goldclaw",
+      "pos": [
+        24982,
+        8875,
+        4572
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Stung by Love by Snargle Goldclaw",
+      "pos": [
+        35929,
+        -521,
+        13334
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Overfeeding!",
+      "pos": [
+        13983,
+        15036,
+        5308
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "The Fleshstalkers",
+      "pos": [
+        19843,
+        3958,
+        8563
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Demise of the Deep Crawler",
+      "pos": [
+        361,
+        15436,
+        5912
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "A Bearkin Guide to Celestial Bodies",
+      "pos": [
+        -42,
+        14959,
+        5913
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Letter from Dagonet",
+      "pos": [
+        14585,
+        11596,
+        5910
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Graced by Fire's Wild Journeykin Observations",
+      "pos": [
+        -29425,
+        -215,
+        8567
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Still, Cold Winds",
+      "pos": [
+        20464,
+        2568,
+        9049
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Silken Weir",
+      "pos": [
+        -13164,
+        16612,
+        8036
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Village Notice",
+      "pos": [
+        21164,
+        7660,
+        5882
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Field Research Notes",
+      "pos": [
+        23436,
+        -22291,
+        16657
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Janthir Field Notes: Troll Cave",
+      "pos": [
+        21216,
+        -22478,
+        15479
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Ink-Smudged Letter",
+      "pos": [
+        -4907,
+        3723,
+        2304
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Gold-Trimmed Journal, Page 1",
+      "pos": [
+        19110,
+        -931,
+        8733
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Gold-Trimmed Journal, Page 2",
+      "pos": [
+        12758,
+        8011,
+        8511
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Gold-Trimmed Journal, Page 3",
+      "pos": [
+        21483,
+        3803,
+        9049
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Curious Artifact",
+      "pos": [
+        -31804,
+        13419,
+        -8
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Dragon Parentage and Family",
+      "pos": [
+        14153,
+        11860,
+        5910
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "From Pirate to Pilot",
+      "pos": [
+        14173,
+        11631,
+        5910
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "The Ravaging of the Jade Runner",
+      "pos": [
+        13861,
+        11746,
+        5910
+      ]
+    }
+  ]
+}

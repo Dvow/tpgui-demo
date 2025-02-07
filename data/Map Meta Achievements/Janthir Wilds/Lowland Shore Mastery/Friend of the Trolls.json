@@ -1,0 +1,55 @@
+{
+  "name": "Friend of the Trolls",
+  "objectives": [
+    {
+      "hint": "/dance",
+      "map": 1550,
+      "name": "Gyrating Troll befriended",
+      "pos": [
+        -31496,
+        -21736,
+        11991
+      ]
+    },
+    {
+      "hint": "/talk",
+      "map": 1550,
+      "name": "Conversive Troll Befriended",
+      "pos": [
+        -28489,
+        -22873,
+        12107
+      ]
+    },
+    {
+      "hint": "/ponder",
+      "map": 1550,
+      "name": "Wise Troll Befriended",
+      "pos": [
+        -28396,
+        -22127,
+        12057
+      ]
+    },
+    {
+      "hint": "/laugh",
+      "map": 1550,
+      "name": "Humorous Troll Befriended",
+      "pos": [
+        -29792,
+        -20916,
+        11906
+      ]
+    },
+    {
+      "hint": "/thanks",
+      "map": 1550,
+      "name": "Kind Troll Befriended",
+      "pos": [
+        -29954,
+        -22015,
+        11953
+      ]
+    }
+  ]
+}

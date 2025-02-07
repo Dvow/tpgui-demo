@@ -1,0 +1,75 @@
+{
+  "name": "Something Fishy",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Complete the Salmon Run that starts near the village shore.",
+      "pos": [
+        19549,
+        -18944,
+        12263
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Participate in a Salmon race",
+      "pos": [
+        27079,
+        22569,
+        59
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Help the Astral Ward clean up the ocean near the bog.",
+      "pos": [
+        -35558,
+        23039,
+        -201
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Help the Astral Ward clean up the ocean near the village shore.",
+      "pos": [
+        33786,
+        26768,
+        -43
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Assist in catching flying fish in the fishing village.",
+      "pos": [
+        -2345,
+        -7538,
+        144
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Assist in preparing fish in the fishing village.",
+      "pos": [
+        -4001,
+        4485,
+        1715
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Participate in the fishing tournament at the lower waterfalls.",
+      "pos": [
+        8322,
+        21888,
+        44
+      ]
+    }
+  ]
+}

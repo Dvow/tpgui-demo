@@ -1,0 +1,125 @@
+{
+  "name": "Retrospective Runaround",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Checkpoint 1",
+      "pos": [
+        9239.68,
+        -757.76,
+        12065.6
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Checkpoint 2",
+      "pos": [
+        15086.304,
+        -5507.68,
+        13504.352
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Checkpoint 3",
+      "pos": [
+        15587.84,
+        -10746.88,
+        17614.4
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Checkpoint 4",
+      "pos": [
+        6774.976,
+        -6553.952,
+        14787.936
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Checkpoint 5",
+      "pos": [
+        -1335.68,
+        -2867.52,
+        16434.56
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Checkpoint 6",
+      "pos": [
+        129.4736,
+        -5.304096,
+        8960.416
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Checkpoint 7",
+      "pos": [
+        -8649.696,
+        4517.408,
+        9620.384
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Checkpoint 8",
+      "pos": [
+        -3561.76,
+        6049.088,
+        8065.568
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1015,
+      "name": "Checkpoint 9",
+      "pos": [
+        -19180.8,
+        -10964.16,
+        12012.8
+      ]
+    },
+    {
+      "hint": "Collect 3 to open the chest",
+      "map": 1015,
+      "name": "Skritt Key Fragment 1",
+      "pos": [
+        -20905.056,
+        -14658.624,
+        12408.768
+      ]
+    },
+    {
+      "hint": "Collect 3 to open the chest",
+      "map": 1015,
+      "name": "Skritt Key Fragment 2",
+      "pos": [
+        -20009.024,
+        -15632.224,
+        12401.184
+      ]
+    },
+    {
+      "hint": "Collect 3 to open the chest",
+      "map": 1015,
+      "name": "Skritt Key Fragment 3",
+      "pos": [
+        -21492.928,
+        -16150.528,
+        12423.232
+      ]
+    }
+  ]
+}

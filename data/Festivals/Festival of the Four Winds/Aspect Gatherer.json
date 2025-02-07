@@ -1,0 +1,525 @@
+{
+  "name": "Aspect Gatherer",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 1",
+      "pos": [
+        160.96,
+        7107.84,
+        3102.4
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 2",
+      "pos": [
+        3691.52,
+        5144.96,
+        523.52
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 3",
+      "pos": [
+        2745.28,
+        6995.2,
+        567.68
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 4",
+      "pos": [
+        1945.6,
+        4553.6,
+        1753.92
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 5",
+      "pos": [
+        -3437.44,
+        3600.32,
+        4615.04
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 6",
+      "pos": [
+        3684.48,
+        9203.52,
+        654.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 7",
+      "pos": [
+        -837.44,
+        7708.8,
+        504.64
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 8",
+      "pos": [
+        1958.08,
+        9169.28,
+        1315.2
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 9",
+      "pos": [
+        6704.64,
+        11270.72,
+        643.2
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 10",
+      "pos": [
+        9392.32,
+        5809.6,
+        1512.64
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 11",
+      "pos": [
+        2132.48,
+        6020.16,
+        615.36
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 12",
+      "pos": [
+        -2084.8,
+        11376.64,
+        774.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 13",
+      "pos": [
+        -4670.72,
+        9361.92,
+        664.64
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 14",
+      "pos": [
+        -1845.76,
+        2525.76,
+        1267.2
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 15",
+      "pos": [
+        306.88,
+        3245.12,
+        3341.76
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 16",
+      "pos": [
+        4929.92,
+        10232.0,
+        378.56
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 17",
+      "pos": [
+        368.64,
+        9032.32,
+        1057.92
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 18",
+      "pos": [
+        5410.24,
+        5215.04,
+        2609.6
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 19",
+      "pos": [
+        2228.16,
+        1869.76,
+        1041.28
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 20",
+      "pos": [
+        -2392.32,
+        5601.28,
+        5361.6
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 21",
+      "pos": [
+        -1618.88,
+        3520.64,
+        3432.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 22",
+      "pos": [
+        6118.08,
+        -7243.52,
+        655.04
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 23",
+      "pos": [
+        1784.96,
+        10746.24,
+        1440.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 24",
+      "pos": [
+        -3971.2,
+        9723.52,
+        3361.6
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 25",
+      "pos": [
+        -1817.28,
+        4008.0,
+        1951.68
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 26",
+      "pos": [
+        -229.76,
+        9817.92,
+        3423.04
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 27",
+      "pos": [
+        -3603.2,
+        11723.52,
+        5002.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 28",
+      "pos": [
+        6040.0,
+        7944.64,
+        2466.24
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 29",
+      "pos": [
+        -3429.12,
+        10614.08,
+        3769.92
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 30",
+      "pos": [
+        -3056.96,
+        -207.36,
+        1117.44
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 31",
+      "pos": [
+        -6964.16,
+        7797.12,
+        3881.92
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 32",
+      "pos": [
+        3236.8,
+        7380.8,
+        2752.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 33",
+      "pos": [
+        -4696.96,
+        7885.76,
+        5378.56
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 34",
+      "pos": [
+        5935.68,
+        2666.56,
+        1541.12
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 35",
+      "pos": [
+        -4407.36,
+        -7417.92,
+        644.16
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 36",
+      "pos": [
+        3824.64,
+        9733.44,
+        2486.4
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 37",
+      "pos": [
+        7246.08,
+        3412.8,
+        1736.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 38",
+      "pos": [
+        -3319.68,
+        -4512.64,
+        955.2
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 39",
+      "pos": [
+        -5143.68,
+        6838.08,
+        983.36
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 40",
+      "pos": [
+        621.44,
+        -5351.04,
+        297.92
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 41",
+      "pos": [
+        2102.08,
+        -2280.64,
+        918.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 42",
+      "pos": [
+        5606.08,
+        -2573.76,
+        598.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 43",
+      "pos": [
+        -7574.08,
+        -9318.08,
+        608.64
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 44",
+      "pos": [
+        2711.68,
+        10800.32,
+        1678.08
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 45",
+      "pos": [
+        -7421.44,
+        10241.6,
+        4578.88
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 46",
+      "pos": [
+        -1085.44,
+        10234.56,
+        4401.92
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 47",
+      "pos": [
+        3926.72,
+        8918.4,
+        2488.64
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 48",
+      "pos": [
+        1372.16,
+        -7652.48,
+        919.04
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 49",
+      "pos": [
+        6374.08,
+        5081.6,
+        2523.84
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 50",
+      "pos": [
+        6728.64,
+        -9567.04,
+        521.6
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 51",
+      "pos": [
+        -2931.2,
+        9346.24,
+        4352.0
+      ]
+    },
+    {
+      "hint": null,
+      "map": 922,
+      "name": "Sky Crystal 52",
+      "pos": [
+        776.32,
+        4216.32,
+        4300.8
+      ]
+    }
+  ]
+}

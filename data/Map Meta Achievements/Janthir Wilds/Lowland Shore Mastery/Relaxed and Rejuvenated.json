@@ -1,0 +1,15 @@
+{
+  "name": "Relaxed and Rejuvenated",
+  "objectives": [
+    {
+      "hint": "Press F around any vacant spot.",
+      "map": 1550,
+      "name": "Relax in the hot springs.",
+      "pos": [
+        -16569,
+        -18207,
+        8175
+      ]
+    }
+  ]
+}

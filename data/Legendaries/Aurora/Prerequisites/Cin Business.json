@@ -1,0 +1,181 @@
+{
+  "name": "Cin Business",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1185,
+      "name": "Shipping Orders",
+      "pos": [
+        13433.664,
+        -12429.344,
+        2164.496
+      ]
+    },
+    {
+      "hint": "Drops from White Mantle enemies in Lake Doric.",
+      "map": 1185,
+      "name": "White Mantle Rations",
+      "pos": null
+    },
+    {
+      "hint": null,
+      "map": 1185,
+      "name": "Warm Animal Pelt",
+      "pos": [
+        -6251.328,
+        27304.416,
+        3610.272
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1185,
+      "name": "Tower Shard",
+      "pos": [
+        9620.864,
+        27291.2,
+        7398.336
+      ]
+    },
+    {
+      "hint": "Drops from all Bandit Spirits north of the lumber mill at night.",
+      "map": 1185,
+      "name": "Cord of Stolen Wood",
+      "pos": [
+        -5916.192,
+        11876.128,
+        1715.1232
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1185,
+      "name": "Quaggan Food",
+      "pos": [
+        -6274.752,
+        4006.4,
+        9.323712
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1185,
+      "name": "Fancy Greatsword",
+      "pos": [
+        -14046.592,
+        -22675.2,
+        1333.296
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1185,
+      "name": "Fishing Supplies",
+      "pos": [
+        865.9648,
+        -17487.84,
+        1351.3632
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1185,
+      "name": "Lost Locket",
+      "pos": [
+        6143.232,
+        28014.656,
+        2596.3232
+      ]
+    },
+    {
+      "hint": "Talk to a Ghost Treant and consume the item from the inventory.",
+      "map": 1185,
+      "name": "Magic-Imbued Peach Core",
+      "pos": [
+        4091.744,
+        27172.128,
+        3794.272
+      ]
+    },
+    {
+      "hint": "Talk to the child behind the sewer grate near Divinity's Waterworks.",
+      "map": 1185,
+      "name": "Pearl Shell",
+      "pos": [
+        -13240.352,
+        -24105.888,
+        -26.799808
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1185,
+      "name": "Bloodstone-Infused Toadstool",
+      "pos": [
+        10236.928,
+        -26803.968,
+        1169.6
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1185,
+      "name": "Pinkeens's Sextant",
+      "pos": [
+        -711.088,
+        4853.504,
+        222.85024
+      ]
+    },
+    {
+      "hint": "Defeat Legendary Justiciar Agatha, encountered during events at Saidra's Haven.",
+      "map": 1185,
+      "name": "Mystic Cloth",
+      "pos": [
+        10610.688,
+        1840.5312,
+        3652.384
+      ]
+    },
+    {
+      "hint": "Defeat Legendary Cairn the Queenslayer, encountered during events at New Loamhurst.",
+      "map": 1185,
+      "name": "Queenslayer Jade Chunk",
+      "pos": [
+        -2527.7824,
+        -27413.312,
+        1186.4352
+      ]
+    },
+    {
+      "hint": "Defeating Legendary Siegemaster Immelhoof, encountered during events around Harvest Cascades.",
+      "map": 1185,
+      "name": "Stolen Flank Steak",
+      "pos": [
+        3934.464,
+        20338.016,
+        3372.576
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1185,
+      "name": "Bottle of White Mantle Red Wine",
+      "pos": [
+        13246.88,
+        12629.632,
+        4131.616
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1185,
+      "name": "Doric Dam Splinter",
+      "pos": [
+        -13258.464,
+        1687.9584,
+        16.001152
+      ]
+    }
+  ]
+}

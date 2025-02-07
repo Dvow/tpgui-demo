@@ -1,0 +1,149 @@
+{
+  "name": "The Falling Star: Vault Dispatch",
+  "objectives": [
+    {
+      "hint": null,
+      "name": "1. Purchase the Falling Star Quest License from the Wizard's Vault."
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "2. Speak with Field Archivist Cierle in Lowland Shore.",
+      "pos": [
+        20110,
+        -17572,
+        15482
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "3. Interview local scouts about the unusual sight.",
+      "pos": [
+        -14369,
+        16222,
+        7920
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "4. Retrieve the unknown object.",
+      "pos": [
+        -40375,
+        27714,
+        -4723
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "5. Return to Field Archivist Cierle to report about what you've found.",
+      "pos": [
+        20110,
+        -17573,
+        15481
+      ]
+    },
+    {
+      "hint": null,
+      "map": 218,
+      "name": "6. Ask Morgaah Bloodseeker in the Black Citadel about crafting a specialized glove.",
+      "pos": [
+        2432,
+        15699,
+        5512
+      ]
+    },
+    {
+      "hint": "Purchased from Guiding Breath at the Harvest Den renown heart in Lowland Shore.",
+      "map": 1550,
+      "name": "6.1. Warclaw-Fur Liner",
+      "pos": [
+        21680,
+        -1101,
+        8548
+      ]
+    },
+    {
+      "hint": "Purchased from Shading Willow at the Autumn's Vale renown heart in Lowland Shore.",
+      "map": 1550,
+      "name": "6.2. Refined Tempering Oil",
+      "pos": [
+        -4791,
+        3437,
+        1872
+      ]
+    },
+    {
+      "hint": "Purchased from Vast Caldera at the Coursing Upland renown heart in Lowland Shore.",
+      "map": 1550,
+      "name": "6.3. Crystalline Diode",
+      "pos": [
+        -31503,
+        -1947,
+        8268
+      ]
+    },
+    {
+      "hint": "Purchased from Sava Quicksnarl at the Amduat Point renown heart in Fireheart Rise.",
+      "map": 22,
+      "name": "6.4. Flame Legion Darksteel",
+      "pos": [
+        18326,
+        13957,
+        825
+      ]
+    },
+    {
+      "hint": "Purchased from Zara at the Gallant's Folly renown heart in Mount Maelstrom.",
+      "map": 39,
+      "name": "6.5. Salvaged Grade 37 Crystalink Coupling",
+      "pos": [
+        11327,
+        24874,
+        1731
+      ]
+    },
+    {
+      "hint": "Purchased from Magister Kathryn at the Tribulation Rift renown heart in Dredgehaunt Cliffs.",
+      "map": 26,
+      "name": "6.6. Dredge Heat-Ablation Plates",
+      "pos": [
+        -12091,
+        -27634,
+        783
+      ]
+    },
+    {
+      "hint": null,
+      "map": 218,
+      "name": "7. Speak with Morgaah Bloodseeker to craft the glove.",
+      "pos": [
+        2432,
+        15699,
+        5512
+      ]
+    },
+    {
+      "hint": "You can simply transmute the look of your existing gloves.",
+      "map": 1550,
+      "name": "8. With the Meteor-Wielder's Glove equipped, retrieve the spear.",
+      "pos": [
+        -40375,
+        27723,
+        -4725
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "9. Return to Field Archivist Cierle to report about the spear.",
+      "pos": [
+        20108,
+        -17577,
+        15481
+      ]
+    }
+  ]
+}

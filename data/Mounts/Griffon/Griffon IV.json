@@ -1,0 +1,95 @@
+{
+  "name": "Open Skies: The Desolation",
+  "objectives": [
+    {
+      "hint": "Embolden the descendant of two famous Sunspears on a dangerous patrol.",
+      "map": 1226,
+      "name": "Ashhe, the Rune of Valor",
+      "pos": [
+        -16880.346,
+        1904.359,
+        11204.173
+      ]
+    },
+    {
+      "hint": "Explore a ruined Sunspear shrine.",
+      "map": 1226,
+      "name": "Virzak, the Rune of Compassion",
+      "pos": [
+        -26735.73,
+        14243.442,
+        12310.267
+      ]
+    },
+    {
+      "hint": "Purchase this relic from Dunkoro's ghost in the Lair of the Forgotten. 25 Gold.",
+      "map": 1226,
+      "name": "Ancient Sunspear Flags",
+      "pos": [
+        35263.67,
+        -7894.9336,
+        9968.269
+      ]
+    },
+    {
+      "hint": "Purchase this relic from Kisha Odili in the Desolation. 25 Gold.",
+      "map": 1226,
+      "name": "Prayer Lights",
+      "pos": [
+        8088.1206,
+        52467.16,
+        298.68045
+      ]
+    },
+    {
+      "hint": "Acquire this relic from the last spearmarshal.",
+      "map": 1248,
+      "name": "Spearmarshal's Plea",
+      "pos": [
+        56193.082,
+        -26253.754,
+        6078.8843
+      ]
+    },
+    {
+      "hint": "Collect this egg from the griffon roost.",
+      "map": 1226,
+      "name": "Warmed Canyon Griffon Egg",
+      "pos": [
+        8953.92,
+        -3062.4,
+        16538.56
+      ]
+    },
+    {
+      "hint": "Collect this egg from atop the links of a broken chain.",
+      "map": 1226,
+      "name": "Dark Canyon Griffon Egg",
+      "pos": [
+        12970.56,
+        7112.1226,
+        15399.68
+      ]
+    },
+    {
+      "hint": "Collect this egg from a atop a spire near Chukeht Overlook.",
+      "map": 1226,
+      "name": "Pale Canyon Griffon Egg",
+      "pos": [
+        232.64,
+        18239.04,
+        13702.4
+      ]
+    },
+    {
+      "hint": "Collect this egg from a bluff overlooking the Ruination.",
+      "map": 1226,
+      "name": "Mottled Canyon Griffon Egg",
+      "pos": [
+        -5080.64,
+        5743.04,
+        12804.16
+      ]
+    }
+  ]
+}

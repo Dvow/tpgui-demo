@@ -1,0 +1,215 @@
+{
+  "name": "Coalescence II: The Gift",
+  "objectives": [
+    {
+      "hint": "Interact with the bottles by the Balthazar statue.",
+      "map": 51,
+      "name": "Bottle of Rage (Empty)",
+      "pos": [
+        -23776.0,
+        -19232.0,
+        4672.0
+      ]
+    },
+    {
+      "hint": "Fills automatically at location.",
+      "map": 1248,
+      "name": "Bottle of Rage (Filled)",
+      "pos": [
+        19040.0,
+        -544.0,
+        11456.0
+      ]
+    },
+    {
+      "hint": "Interact with the bottles found in the small crevice.",
+      "map": 25,
+      "name": "Bottle of Contempt (Empty)",
+      "pos": [
+        -480.0,
+        -40032.0,
+        640.0
+      ]
+    },
+    {
+      "hint": "Talk to Separtist Sympathizer.",
+      "map": 21,
+      "name": "Bottle of Contempt (Filled)",
+      "pos": [
+        -20416.0,
+        -25728.0,
+        1984.0
+      ]
+    },
+    {
+      "hint": "After beating Qadim interact with the bottles found in the small chest.",
+      "map": 1303,
+      "name": "Bottle of Surprise (Empty)",
+      "pos": [
+        -1364.48,
+        12584.96,
+        4779.52
+      ]
+    },
+    {
+      "hint": "You must first defeat at least one boss in Mythwright Gambit in order to purchase this item. You may purchase this item at any point in the collection proccess. Once all bottles have been found and filled, use this item to obtain the Alchemical Alembic Complete.",
+      "map": 1303,
+      "name": "Alembic Apparatus",
+      "pos": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "hint": "Jump In Mystic Forge",
+      "map": 50,
+      "name": "Bottle of Suprise (Filled)",
+      "pos": [
+        -2112.0,
+        13856.0,
+        832.0
+      ]
+    },
+    {
+      "hint": "Interact with the bottles found in front of the broken Dwayna statue.",
+      "map": 15,
+      "name": "Bottle of Fear (Empty)",
+      "pos": [
+        17728.0,
+        -14688.0,
+        -864.0
+      ]
+    },
+    {
+      "hint": "The rift can only be opened once the player has completed the Open Skies: Sunspear Sanctuary part of the Griffon mount scavenger hunt.",
+      "map": 1211,
+      "name": "Bottle of Fear (Reopen Rift)",
+      "pos": [
+        57280.0,
+        22912.0,
+        6432.0
+      ]
+    },
+    {
+      "hint": "Talk to the Sanctum Librarian",
+      "map": 1256,
+      "name": "Bottle of Fear (Filled)",
+      "pos": [
+        25568.0,
+        6208.0,
+        544.0
+      ]
+    },
+    {
+      "hint": "You need to have Connecting the Pieces active to enter. This is the second story step of Battle for Lion's Arch in Living World Season 1.",
+      "map": 27,
+      "name": "Bottle of Anguish (Scarlet Briars Lair Entrance)",
+      "pos": [
+        -17248.0,
+        29696.0,
+        3360.0
+      ]
+    },
+    {
+      "hint": "Found by interacting with the bookshelf.",
+      "map": 964,
+      "name": "Bottle of Anguish (Empty)",
+      "pos": [
+        -17120.0,
+        30752.0,
+        4608.0
+      ]
+    },
+    {
+      "hint": "Use the /kneel",
+      "map": 50,
+      "name": "Bottle of Anguish (Filled)",
+      "pos": [
+        -22176.0,
+        5376.0,
+        192.0
+      ]
+    },
+    {
+      "hint": "Interact with the table.",
+      "map": 35,
+      "name": "Bottle of Excitement (Empty)",
+      "pos": [
+        -2592.0,
+        -30624.0,
+        1536.0
+      ]
+    },
+    {
+      "hint": "Enter the Fractals of the Mists.",
+      "map": 50,
+      "name": "Bottle of Excitement (Fractals of the Mists Entrance)",
+      "pos": [
+        5760.0,
+        -9536.0,
+        1248.0
+      ]
+    },
+    {
+      "hint": "Jump into the endlessly looped portal fountain.",
+      "map": 872,
+      "name": "Bottle of Excitement (Filled)",
+      "pos": [
+        4119.36,
+        -3648.0,
+        9600.0
+      ]
+    },
+    {
+      "hint": "Interact with the bottles on the ground next to quaggan Coddler.",
+      "map": 29,
+      "name": "Bottle of Joy (Empty)",
+      "pos": [
+        12256.0,
+        -35968.0,
+        0.0
+      ]
+    },
+    {
+      "hint": "Fills automatically at location.",
+      "map": 50,
+      "name": "Bottle of Joy (Filled)",
+      "pos": [
+        -4704.0,
+        12480.0,
+        928.0
+      ]
+    },
+    {
+      "hint": "Enter the Seraph Headquarters.",
+      "map": 18,
+      "name": "Bottle of Shame (Seraph Headquarters)",
+      "pos": [
+        3872.0,
+        -224.0,
+        5312.0
+      ]
+    },
+    {
+      "hint": "Interact with the bottles found under the table.",
+      "map": 330,
+      "name": "Bottle of Shame (Empty)",
+      "pos": [
+        5152.0,
+        896.0,
+        5312.0
+      ]
+    },
+    {
+      "hint": "Fills automatically at location.",
+      "map": 1211,
+      "name": "Bottle of Shame (Filled)",
+      "pos": [
+        47776.0,
+        -17280.0,
+        2880.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Troll Delicacy",
+  "objectives": [
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "Consume a rock cooked by the troll.",
+      "pos": [
+        -29250,
+        -22669,
+        12052
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Work with a Smile",
+  "objectives": [
+    {
+      "hint": "Obtained after participating in \"Forage and taste test for edible mushrooms\" event.",
+      "map": 1550,
+      "name": "Help gather some mushrooms in the forest.",
+      "pos": [
+        32251,
+        -12756,
+        13064
+      ]
+    },
+    {
+      "hint": "Obtained after participating in \"Gather honey for the kodan\" event.",
+      "map": 1550,
+      "name": "Help the lowlanders gather honey in the forest.",
+      "pos": [
+        34012,
+        -1897,
+        12595
+      ]
+    },
+    {
+      "hint": "Obtained after participating in \"Get warclaw cubs back in their pens before they eat the cabbages\".",
+      "map": 1550,
+      "name": "Save some cabbage from the vicious warclaw cubs.",
+      "pos": [
+        21756,
+        625,
+        8434
+      ]
+    },
+    {
+      "hint": "Obtained after participating in \"Dance among the kodan\" event.",
+      "map": 1550,
+      "name": "Dance around the bonfire unter the moon's glow.",
+      "pos": [
+        21756,
+        625,
+        8434
+      ]
+    },
+    {
+      "hint": "Obtained after participating in \"Help Frantic Hummingbird tend to the garden\" event.",
+      "map": 1550,
+      "name": "Help the lowlanders tend to their gardens in Harvest Den.",
+      "pos": [
+        10378,
+        118,
+        12554
+      ]
+    },
+    {
+      "hint": "Obtained after participating in \"Collect frogs across the river and bring them back to the pot\" event.",
+      "map": 1550,
+      "name": "Carry frogs across the river.",
+      "pos": [
+        -5242,
+        -6649,
+        5893
+      ]
+    },
+    {
+      "hint": "Obtained after participating in \"Help the kodan relax in the hot springs\" event.",
+      "map": 1550,
+      "name": "Take a dip in the tundra hot springs.",
+      "pos": [
+        -15204,
+        -18780,
+        8244
+      ]
+    },
+    {
+      "hint": "Obtained after participating in \"Reach the Warclaw Run finish line!\" event.",
+      "map": 1550,
+      "name": "Race warclaws in the tundra.",
+      "pos": [
+        -25660,
+        -4957,
+        8073
+      ]
+    }
+  ]
+}

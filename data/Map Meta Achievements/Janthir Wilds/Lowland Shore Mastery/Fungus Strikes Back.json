@@ -1,0 +1,15 @@
+{
+  "name": "Fungus Strikes Back",
+  "objectives": [
+    {
+      "hint": "Spawns after the \"Forage and taste test for edible mushrooms\" event.",
+      "map": 1550,
+      "name": "Get hit by the Mushroom King's hallucination  attack.",
+      "pos": [
+        32685,
+        -12591,
+        13103
+      ]
+    }
+  ]
+}

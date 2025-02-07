@@ -1,0 +1,135 @@
+{
+  "name": "Hide-and-Seek",
+  "objectives": [
+    {
+      "hint": "Around 3:30 minutes on the timer is safe.",
+      "map": 1550,
+      "name": "Start of the challenge. Try to not finish it too early for your account's safety.",
+      "pos": [
+        19954,
+        5612,
+        5916
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "1st cub",
+      "pos": [
+        18535,
+        5137,
+        5910
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "2nd cub",
+      "pos": [
+        21537,
+        9357,
+        5198
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "3rd cub",
+      "pos": [
+        24216,
+        5236,
+        5910
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "4th cub",
+      "pos": [
+        24964,
+        7747,
+        4599
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "5th cub",
+      "pos": [
+        27126,
+        9651,
+        3587
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "6th cub",
+      "pos": [
+        18325,
+        12253,
+        5892
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "7th cub",
+      "pos": [
+        18630,
+        16010,
+        5806
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "8th cub",
+      "pos": [
+        16267,
+        13835,
+        5875
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "9th cub",
+      "pos": [
+        13516,
+        9227,
+        5679
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "10th cub",
+      "pos": [
+        17078,
+        3249,
+        6172
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "11th cub",
+      "pos": [
+        18320,
+        8335,
+        2516
+      ]
+    },
+    {
+      "hint": null,
+      "map": 1550,
+      "name": "12th cub",
+      "pos": [
+        27976,
+        13314,
+        3670
+      ]
+    }
+  ]
+}
