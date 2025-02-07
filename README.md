@@ -16,4 +16,4 @@ A Guild Wars 2 teleport utility built with Rust and Dear ImGui.
 ## Development
 - Uses imgui-rs for the UI
 - Supports VS Code debugging
-- Includes both debug and release configurations 
+- Includes both debug and release configurations ww
